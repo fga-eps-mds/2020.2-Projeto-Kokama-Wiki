@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  mkdocs:
+    image: squidfunk/mkdocs-material
+    container_name: mkdocs_material
+    ports:
+      - 8008:8008
+    volumes:
+      - ./:/docs/
+    stdin_open: true
+    tty: true
+    command:
+      ['serve', "--dev-addr=0.0.0.0:8008"]
