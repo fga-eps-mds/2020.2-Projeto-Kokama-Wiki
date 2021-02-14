@@ -10,7 +10,7 @@ Contribuições ao projeto são muito bem-vindas. Para manter um projeto bem org
 *   [Políticas de *issues*](CONTRIBUTING.md#política-de-issues);
 *   [Política de *branchs*](CONTRIBUTING.md#política-de-branches);
 *   [Política de *commits*](CONTRIBUTING.md#política-de-commits);
-*   [Política de *pull request*](CONTRIBUTING.md#política-de-merges-e-pull-requests).
+*   [Política de *merges* e *pull request*](CONTRIBUTING.md#política-de-merges-e-pull-requests).
 
 ### Política de Issues
 
@@ -59,7 +59,7 @@ Regras:
 Crie a *branch* com a seguinte estrutura: 
 
 ```bash
-[número-da-issue]-<nome-da-branch-separada-por-hífens-com-letras-minusculas-sem-acento>
+[número-da-issue]-<nome-significativo-da-branch-separada-por-hífens-com-letras-minusculas-sem-acento>
 ```
 
 ### Política de Commits
