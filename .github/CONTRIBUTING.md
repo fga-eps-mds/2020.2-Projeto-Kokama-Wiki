@@ -14,7 +14,7 @@ Contribuições ao projeto são muito bem-vindas. Para manter um projeto bem org
 
 ### Política de Issues
 
-Para criação de issue, um [template de issue](.github/ISSUE_TEMPLATE) deve ser seguido.
+Para criação de issue, um [template de issue](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/new/choose) deve ser seguido.
 
 Caso encontre um bug ou tenha alguma sugestão de melhoria ao projeto, siga os passos abaixo:
 
