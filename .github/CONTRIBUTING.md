@@ -8,7 +8,7 @@ Contribuições ao projeto são muito bem-vindas. Para manter um projeto bem org
 
 *   Caso seja um contribuidor externo, faça um *fork* do repositório e submeta as modificações através de *pull request*;
 *   [Políticas de *issues*](CONTRIBUTING.md#política-de-issues);
-*   [Política de *branchs*](CONTRIBUTING.md#política-de-*branch*es);
+*   [Política de *branchs*](CONTRIBUTING.md#política-de-branches);
 *   [Política de *commits*](CONTRIBUTING.md#política-de-commits);
 *   [Política de *pull request*](CONTRIBUTING.md#política-de-merges-e-pull-requests).
 
