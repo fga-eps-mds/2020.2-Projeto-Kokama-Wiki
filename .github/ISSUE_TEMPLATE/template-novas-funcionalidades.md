@@ -1,7 +1,7 @@
 ---
-name: Template genérico de issues
-about: Template para assuntos diversos como documentação e configuração de ferramentas
-title: [USXX] Título da nova funcionalidade
+name: Template de história de usuário (US) ou história técnica de usuário (TS)
+about: Template para criação de história de usuário (US) para novas funcionalidades ou pendência técnica de história de usuário (TS)
+title: '[USXX/TSXX] Título da US/TS'
 labels: ''
 assignees: ''
 
@@ -11,15 +11,15 @@ assignees: ''
 
 Eu, como <persona>, gostaria de <realizar algo> para <alcançar um objetivo>.
 
-## Critérios de Aceitação [?](http://www.metodoagil.com/historias-de-usuario/)
-
-<!-- Enumerar os critérios de aceitação dessa issue -->
-<!-- - Exemplo 1. -->
-
 ## Tarefas
 
 <!-- Enumerar as tarefas necessárias para concluir a issue -->
 <!-- - [ ] Tarefa 1. -->
+
+## Critérios de Aceitação [?](http://www.metodoagil.com/historias-de-usuario/)
+
+<!-- Enumerar os critérios de aceitação dessa issue -->
+<!-- - Exemplo 1. -->
 
 <!-- ## Observações -->
 

@@ -17,6 +17,11 @@ assignees: ''
 <!-- Enumerar as tarefas necessárias para concluir a issue -->
 <!-- - [ ] Tarefa 1. -->
 
+## Critérios de Aceitação
+
+<!-- Enumerar os critérios de aceitação dessa issue -->
+<!-- - Exemplo 1. -->
+
 <!-- ## Observações -->
 
 <!-- Informações adicionais que ajudem no desenvolvimento da issue. -->
