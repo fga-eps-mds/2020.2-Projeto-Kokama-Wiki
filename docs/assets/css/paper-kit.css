@@ -7400,7 +7400,7 @@ License - nucleoapp.com/license/
     }
   }
   .navbar-nav {
-    margin: 1px -15px;
+    margin: 1px 1px;
   }
   .navbar-nav .open .dropdown-menu>li>a {
     padding: 15px 15px 5px 50px;
@@ -7663,7 +7663,7 @@ License - nucleoapp.com/license/
   }
 }
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 230px) {
   .navbar-collapse {
     position: fixed;
     display: block !important;
