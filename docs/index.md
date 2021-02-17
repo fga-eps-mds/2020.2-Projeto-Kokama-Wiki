@@ -1,7 +1,0 @@
-# Introdução
-
-TODO
-
-# Equipe
-
-TODO
