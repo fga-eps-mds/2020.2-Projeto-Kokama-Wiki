@@ -31,6 +31,8 @@ nav:
       - Identidade visual: "product/visual-identity.md"
   - Projeto:
       - Roadmap do Produto: "project/product-roadmap.md"
+      - Comunidade:
+        - Código de conduta: "project/CODE_OF_CONDUCT.md"
   - Gerência:
     - Quadro de disponibilidade: "management/availability-board.md"
     - Sprints:
