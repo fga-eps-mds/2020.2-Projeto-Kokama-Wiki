@@ -1,11 +1,5 @@
 # Código de conduta
 
-## Histórico de revisão
-
-| Data       | Autor                                        | Modificações                      | Versão |
-| ---------- | -------------------------------------------- | --------------------------------- | ------ |
-| 20/02/2020 | [Leonardo Medeiros](https://github.com/leomedeiros1) | Adiciona código de conduta | 1.0    |
-
 ## Propósito
 
 O projeto é mantido por estudantes durante a execução das disciplinas
@@ -14,7 +8,6 @@ da Universidade de Brasília.
 Sendo assim, frisamos a importância de promover um ambiente aberto e acolhedor,
 nós mantenedores e contribuidores nos comprometemos a fazer participação em nosso
 projeto e nossa comunidade provendo uma experiência livre de assédio para todos.
-
 
 ## Nossas Responsabilidades
 
