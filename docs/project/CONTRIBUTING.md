@@ -1,18 +1,24 @@
 # Guia de Contribuição
 
-Antes de realizar uma contribuição, conheça um pouco sobre o objetivo do projeto e também sobre o povo Kokama na nossa [documentação](https://fga-eps-mds.github.io/EPS-2020-2-G3/).
+## Histórico de revisão
+
+| Data       | Autor                                                                                          | Modificações                        | Versão |
+| ---------- | ---------------------------------------------------------------------------------------------- | ----------------------------------- | ------ |
+| 20/02/2020 | [Welison Regis](https://github.com/WelisonR) e [Lieverton Silva](https://github.com/lievertom) | Adiciona diretrizes de contribuição | 1.0    |
 
 ## Como contribuir?
+
+Antes de realizar uma contribuição, conheça um pouco sobre o objetivo do projeto e também sobre o povo Kokama na nossa [documentação](https://fga-eps-mds.github.io/EPS-2020-2-G3/).
 
 Contribuições ao projeto são muito bem-vindas. Para manter um projeto bem organizado, ao contribuir observe as políticas abaixo:
 
 - Caso seja um contribuidor externo, faça um _fork_ do repositório e submeta as modificações através de _pull request_;
-- [Políticas de _issues_](CONTRIBUTING.md#política-de-issues);
-- [Política de _branchs_](CONTRIBUTING.md#política-de-branches);
-- [Política de _commits_](CONTRIBUTING.md#política-de-commits);
-- [Política de _merges_ e _pull request_](CONTRIBUTING.md#política-de-merges-e-pull-requests).
+- [Política de _issues_](#politica-de-issues);
+- [Política de _branchs_](#politica-de-branches);
+- [Política de _commits_](#politica-de-commits);
+- [Política de _merges_ e _pull request_](#politica-de-merges-e-pull-requests).
 
-### Política de Issues
+### Política de _issues_
 
 Para criação de issue, um [template de issue](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/new/choose) deve ser seguido.
 
