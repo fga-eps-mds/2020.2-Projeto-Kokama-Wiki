@@ -34,6 +34,8 @@ nav:
       - Design:
         - Identidade visual: "project/visual-identity.md"
         - Protótipo de baixa fidelidade: "project/low-prototype.md"
+        - Protótipo de média fidelidade: "project/mid-prototype.md"
+        - Protótipo de alta fidelidade: "project/high-prototype.md"
   - Gerência:
     - Quadro de disponibilidade: "management/availability-board.md"
     - Sprints:
