@@ -33,6 +33,7 @@ nav:
         - Diretrizes de contribuição: "project/CONTRIBUTING.md"
       - Design:
         - Identidade visual: "project/visual-identity.md"
+        - Protótipo de baixa fidelidade: "project/low-prototype.md"
   - Gerência:
     - Quadro de disponibilidade: "management/availability-board.md"
     - Sprints:
