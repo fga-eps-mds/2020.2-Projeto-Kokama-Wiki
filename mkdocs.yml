@@ -27,12 +27,13 @@ theme:
 
 # Content Menu
 nav:
-  - Produto:
-      - Identidade visual: "product/visual-identity.md"
   - Projeto:
       - Comunidade:
         - Código de conduta: "project/CODE_OF_CONDUCT.md"
         - Diretrizes de contribuição: "project/CONTRIBUTING.md"
+      - Design:
+        - Documento de identidade visual: "project/visual-identity.md"
+        - Protótipo de baixa fidelidade: "project/low-prototype.md"
   - Gerência:
     - Quadro de disponibilidade: "management/availability-board.md"
     - Sprints:
