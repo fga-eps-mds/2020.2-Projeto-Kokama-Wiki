@@ -42,8 +42,8 @@ nav:
         - Planejamento: "management/sprints/sprint-1-planning.md"
 
 # Style
-# extra_css:
-#   - assets/style/extra.css
+extra_css:
+  - assets/css/extra.css
 
 # Markdown extensions
 markdown_extensions:
