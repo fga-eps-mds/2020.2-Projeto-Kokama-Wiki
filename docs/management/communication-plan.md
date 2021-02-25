@@ -25,7 +25,7 @@ Ferramentas adotadas pela equipe:
 
 | Reunião                                                          | Dia(s)            | Canal   | Horários       |
 | ---------------------------------------------------------------- | ----------------- | ------- | -------------- |
-| **Daily**                                                        | Segunda a segunda | Discord | 20h00 às 20h15 |
+| **Daily**                                                        | Segunda a segunda | Discord | 13h45 às 14h00 |
 | **Reunião com Product Owner**                                    | Sexta-feira       | Jitsi   | 18h00 às 19h00 |
 | **Reunião de revisão, retrospectiva e planejamento de trabalho** | Sábado            | Discord | 14h00 às 18h00 |
 
