@@ -89,3 +89,12 @@
 4. Com o tema definido, começar a delinear o seu escopo
 5. Envolver todos os membros da equipe no sentido de mostrar que é importante haver a colaboração de todos
 
+## Avaliação do Scrum Master
+
+Conforme pode-se observar no gráfico **cumulative flow**, a equipe atendeu bem as demandas planejadas para a semana, observado que as issues que restaram em progresso se referem a atividades de aprendizagem contínua (estudo de tecnologias e metodologias). Além disso, pode-se observar que houve novos planejamentos de atividades após o fim da sprint 1, representada pelo incremento do backlog do produto.
+
+O **burndown** revela que os 24 pontos foram bem distribuídos e desempenhados ao longo da semana, fora o fato de que se conseguiu atingir os pontos planejados para a sprint. Já o **velocity** da sprint 1, embora um pouco abaixo da média se comparado a sprint passada, indica que o foco da equipe tem sido no estudo e aplicação das tecnologias e metodologias, além da iniciação do projeto propriamente dito, que ocorreu na sexta-feira com uma entrevista com a PO.
+
+O **quadro de conhecimentos** indica que os integrantes ainda estão timidamente se apropriando do conhecimento das tecnologias e metodologias desempenhadas na disciplina, o que levanta a necessidade de adotar medidas para que o conhecimento da equipe se torne melhor e mais homogêneo.
+
+De modo geral, percebe-se que será necessário acelerar atividades relacionadas ao tema, melhorar o trabalho em equipe através de atividades colaborativas e investir mais em conhecimento e treinamento da equipe.
