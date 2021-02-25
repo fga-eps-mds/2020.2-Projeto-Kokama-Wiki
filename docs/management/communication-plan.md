@@ -1,5 +1,11 @@
 # Plano de Comunicação
 
+## Histórico de revisão
+
+| Data       | Autor                                        | Modificações                        | Versão |
+| ---------- | -------------------------------------------- | ----------------------------------- | ------ |
+| 25/02/2020 | [Welison Regis](https://github.com/WelisonR) | Adiciona Plano de Comunicação       | 1.0    |
+
 ## Introdução
 
 O presente documento visa detalhar a estratégia de comunicação adotada pela equipe no decorrer do desenvolvimento do projeto.
