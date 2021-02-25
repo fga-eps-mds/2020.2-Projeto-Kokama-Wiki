@@ -48,3 +48,44 @@
 ### Antes x Depois por assunto
 
 ![Quadro de conhecimentos - antes e depois por assunto](../../assets/img/sprints/sprint-1/knowledge-board-topics.png)
+
+## Retrospectiva
+
+### Pontos Positivos
+
+1. Excelente revisão de Git
+2. Proatividade de >>ALGUNS<< membros
+3. Excelente revisão de python
+4. Arrumamos um tema UHUL
+5. Muitas reuniões pontuais e proveitosas
+6. Equipe entusiasmada com o trabalho
+7. Dojo de Python
+8. Professora disponível a ajudar com o projeto
+9. Melhoria de comunicação entre a equipe
+10. Grupo de EPS tem sido bem organizado e auxilia bem os MDS
+11. Temos um tema
+12. A professora parece animada pra ajudar a gente
+13. Ter cliente ajuda no aprendizado e entender melhor uma situacao da vida real
+
+### Pontos de Melhoria
+
+1. Hilmer dificultou a escolha do tema
+2. Conversa com Hilmer/Altaci pode ser feita de forma melhor?
+3. Mais trabalho em equipe
+4. Alguns membros de mds não estão se mostrando tão animados/proativos como outros
+5. Mais proatividade
+6. Mais comprometimento
+7. Não ter reuniões em horário de almoço
+8. Melhor noção de que já estamos atrasados e o projeto é longo
+9. Melhorar nos aprendizados de tecnologia e da teoria necessária para realizar o projeto
+10. Começar a definir missões/metas individuais/dupla
+11. MDS não tá ligando a câmera :(
+
+### Medidas a serem tomadas
+
+1. Melhorar distribuição das issues no início da sprint
+2. Promover novos treinamentos e materiais de estudo em tecnologias
+3. Delegar mais atividades a membros de MDS e definir as metas individuais e de pareamento
+4. Com o tema definido, começar a delinear o seu escopo
+5. Envolver todos os membros da equipe no sentido de mostrar que é importante haver a colaboração de todos
+
