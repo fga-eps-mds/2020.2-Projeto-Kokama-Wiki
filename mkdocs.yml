@@ -34,6 +34,7 @@ nav:
         - Código de conduta: "project/CODE_OF_CONDUCT.md"
         - Diretrizes de contribuição: "project/CONTRIBUTING.md"
   - Gerência:
+    - Plano de comunicação: "management/communication-plan.md"
     - Quadro de disponibilidade: "management/availability-board.md"
     - Sprints:
       - Sprint 0:
