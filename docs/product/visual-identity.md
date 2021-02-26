@@ -19,7 +19,7 @@
 <p>Portanto, escolhemos o vermelho e o branco como cores principais. Para definir as outras duas cores principais, foi feito um degradê entre elas pelo número de cores que queríamos e esse foi o resultado:</p>
 
 <br></br>
-<img src="https://github.com/fga-eps-mds/EPS-2020-2-G3/blob/visual-identity/docs/product/images/gradient.png" alt="gradient" width= 450 height=200>
+<img src="https://github.com/fga-eps-mds/EPS-2020-2-G3/blob/visual-identity/docs/product/images/palette.png" alt="gradient" width= 450 height=200>
 <br></br>
 ## 2.1 Paleta 
 
