@@ -28,7 +28,7 @@
 
 # 3 Topografia
 
-<p>A tipografia utilizada na produção do aplicativo será a tipografia padrão para Android do Native Base. A tipografia será dividida em Tipografia da Identidade do Produto e a tipografia utilizada no produto em si. Para a identidade do produto foi definida a fonte Grand Hotel.</p>
+<p>A tipografia utilizada na produção do aplicativo será a tipografia padrão para Android do Native Base.</p>
 
 
 # 4 Interface
