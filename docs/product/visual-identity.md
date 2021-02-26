@@ -17,14 +17,14 @@
 <p>Para realizar  a definição das cores, o maior critério foi em algo relacionado a Identidade do Povo Kokama. Após analisarmos, chegamos ao consenso de que devemos tentar ao máximo destacar o vermelho.</p>
 
 <p>Portanto, escolhemos o vermelho e o branco como cores principais. Para definir as outras duas cores principais, foi feito um degradê entre elas pelo número de cores que queríamos e esse foi o resultado:</p>
-<br></br>
-<img src="images\palette.png" alt="palette" width= 450 height=200>
 
+<br></br>
+<img src="https://github.com/fga-eps-mds/EPS-2020-2-G3/blob/visual-identity/docs/product/images/gradient.png" alt="gradient" width= 450 height=200>
 <br></br>
 ## 2.1 Paleta 
 
 <br></br>
-<img src="images\gradient.png" alt="palette" width= 450 height=200>
+<img src="https://github.com/fga-eps-mds/EPS-2020-2-G3/blob/visual-identity/docs/product/images/gradient.png" alt="pallete" width= 450 height=200>
 <br></br>
 
 ## 2.2 Identidade das funcionalidades pelas cores
