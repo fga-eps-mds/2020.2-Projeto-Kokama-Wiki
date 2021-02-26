@@ -1,5 +1,5 @@
 # Identidade Visual
-<br></br>
+
 
 # 1 Introdução
 
@@ -10,7 +10,6 @@
 <li>Tipografia: fonte usada.</li>
 </ul>
 </p>
-<br></br>
 
 # 2 Paleta de cores
 
@@ -18,24 +17,19 @@
 
 <p>Portanto, escolhemos o vermelho e o branco como cores principais. Para definir as outras duas cores principais, foi feito um degradê entre elas pelo número de cores que queríamos e esse foi o resultado:</p>
 
-<br></br>
 <img src="https://github.com/fga-eps-mds/EPS-2020-2-G3/blob/visual-identity/docs/product/images/palette.png" alt="gradient" width= 450 height=200>
 <br></br>
+
+
 ## 2.1 Paleta 
 
-<br></br>
 <img src="https://github.com/fga-eps-mds/EPS-2020-2-G3/blob/visual-identity/docs/product/images/gradient.png" alt="pallete" width= 450 height=200>
-<br></br>
 
-## 2.2 Identidade das funcionalidades pelas cores
-<p>-- --</p> 
-
-<br></br>
 
 # 3 Topografia
 
 <p>A tipografia utilizada na produção do aplicativo será a tipografia padrão para Android do Native Base. A tipografia será dividida em Tipografia da Identidade do Produto e a tipografia utilizada no produto em si. Para a identidade do produto foi definida a fonte Grand Hotel.</p>
-<br></br>
+
 
 # 4 Interface
 
