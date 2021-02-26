@@ -13,12 +13,12 @@
 
 # 2 Paleta de cores
 
-<p>Para realizar  a definição das cores, o maior critério foi em algo relacionado a Identidade do Povo Kokama. Após analisarmos, chegamos ao consenso de que devemos tentar ao máximo destacar o vermelho.</p>
+<p>Para realizar  a definição das cores, o maior critério foi relacionado à Identidade do Povo Kokama. Após analisarmos, chegamos ao consenso de que devemos tentar ao máximo destacar o vermelho.</p>
 
 <p>Portanto, escolhemos o vermelho e o branco como cores principais. Para definir as outras duas cores principais, foi feito um degradê entre elas pelo número de cores que queríamos e esse foi o resultado:</p>
 
 <img src="https://github.com/fga-eps-mds/EPS-2020-2-G3/blob/visual-identity/docs/product/images/palette.png" alt="gradient" width= 450 height=200>
-<br></br>
+
 
 
 ## 2.1 Paleta 
@@ -34,7 +34,7 @@
 # 4 Interface
 
 <p>Para manter o padrão do design do do aplicativo, decidimos usar o Native Base, que é uma biblioteca de componentes UI open source. Essa biblioteca produz o design tanto para Android quanto para iOS se baseando no mesmo JavaScript.</p>
-<br></br>
+
 
 # 5 Referências
 <p><b>color-blend</b>. Disponível em: https://meyerweb.com/eric/tools/color-blend/#:::hex/ . Acesso em: 25 fev. 2021.</p>
