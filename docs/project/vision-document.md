@@ -1,25 +1,59 @@
-# Documento de Visão
+ # Documento de Visão
 
 ## Histórico de revisão
 
 | Data       | Autor                                        | Modificações                      | Versão |
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
 | 23/02/2021 | [Ana Júlia](https://github.com/aluzianobriceno) e [Luiz Gustavo](https://github.com/LightZX) | Adicionando início do documento de visão | 1.0    |
+| 26/02/2021 | [Ana Júlia](https://github.com/aluzianobriceno) e [Luiz Gustavo](https://github.com/LightZX) | Atualizando o início do documento | 1.1    |
 
 
 ## __Introdução__
-*  __Propósito:__ Incluir mais o povo kokama na sociedade Brasileira.
-* __Escopo:__ O projeto inclui o primeiro aplicativo kokama tradutor desenvolvido pela Fira Soft, porém por motivos de negociação de direitos autorais a professora Altaci, que trabalha diretamente com esse povo indigena, necessita de um novo aplicativo de tradução para o mesmo. Baseado também no google tradutor ou até mesmo no Duolingo, também para aprendizado dessa língua. Facilitando o contato com os kokamas. (a definir)
+
+Esse documento de visão tem como objetivo mostrar todos os paramentros do projeto Kokama, definir todas as funcionaliades do aplicativo que será desenvolvido, explicar de uma maneira clara e precisa todos problemas que estão sendo resolvidos. Para que juntos, a equipe desenvolvedora e o cliente cheguem num produto final que seja satisfatório. 
+
+### __Propósito__
+
+O projeto tem como finalidade ajudar o povo Kokama a salvar a sua cultura que tem sido negligenciada por tanto tempo, mais especificamente a sua língua. Com a criação de um aplicativo que faça a tradução do português para kokama e vice-versa, eles terão uma nova maneira de aprender e ensinar sua língua. Portanto, o propósito desse projeto aumenta, e deixa de ser somente trazer de volta a um idioma quase perdido e passa a ser de uma cultura inteira, podendo ainda ajudar a disseminar uma luta de um povo quase esquecido pelo restante do país.
+
+### __Escopo__
+
+Por conta da pandemia do covid-19 o povo Kokama, assim como o resto do mundo, tiveram muitas perdas entretanto, suas perdas são mais significativas já que estamos falando de um povo com uma população pequena, eles tiveram cerca de 90 anciões mortos pelo corona vírus, pessoas essas que transmitiam seus conhecimentos para os mais jovens. Assim, os Kokamas se veem numa situação delicada, onde a sua língua pode desaparecer por completo. O Projeto Kokama ajudaria a expandir o conhecimento desse idioma, guardando suas palavras de uma forma que não poderiam vir a desaperecer novamente.
+
+### __Definições, acrônimos e abreviações__
+
+* FGA - Faculdade do Gama.
+* UnB - Universidade de Brasília.
+* MDS - Métodos de Desenvolvimento de Software.
+* EPS - Engenharia de Projeto de Software.
+* Webapp - Aplicação desenvolvido para simular um aplicativo, porém de forma a comportar-se como uma página web.
+* App - Aplicativo mobile, para o sistema operacional Android.
+* Back-end - Ele é o responsável, em termos gerais, pela implementação da regra de negócio.
+* Front-end - Parte da aplicação que interage diretamente com o usuário.
+
+### __Visão Geral__
+
+## __Posicionamento__
+
+### __Oportunidade de Negócios__
+
+Esse aplicativo tem como objetivo ajudar o ensino da língua dos Kokamas, busca facilitar a aquisição desse conhecimento.*
+
+### __Instrução do Problema__ 
+Os povos indígenas, através dos anos, vem sofrendo com o descaso da sociedade para com eles, tendo como consequências a perda de suas culturas. O povo Kokama não seria diferente, nessa pandemia eles perderam cerca 90* anciões, isso significa uma perda significativa de conhecimentos das suas culturas. Uma solução bem sucedida traria benefícios para toda a sociedade, documentando e guardando informações, facilitando a comunicação com os Kokamas e futuramente com outros povos indígenas, ajudando a causa deles. (e mostrando para o resto do mundo que eles estão ali, que eles existem e são tão importantes quanto qualquer um.)*
+
+### __Instrução de Posição do Produto__
+Para a professora Altaci quem viu  a necessidade de armazenar e disseminar o conhecimento da sua cultura, esse aplicativo fornece bem mais que uma ajuda, mas sana uma necessidade de seu povo. O tradutor kokama é um aplicativo que traduz a língua dos kokama para o portugues. Já existe um aplicativo que faz isso, porém ele não foi assertivo nos seus resultados, gerando problemas ao invés de resolvê-los. O nosso produto difere dele, quanto a comunicação com o cliente, estamos usando uma metodologia de desenvolvimento que coloca a experiência com o cliente na frente, assim o resultado será o mais próximo possível daquilo que é esperado pela professora Altaci.
+
+## __Descrições da Parte Interessada e dos Usuários__
+O projeto inclui o primeiro aplicativo kokama tradutor desenvolvido pela Fira Soft, porém por motivos de negociação de direitos autorais a professora Altaci, que trabalha diretamente com esse povo indigena, necessita de um novo aplicativo de tradução para o mesmo. Baseado também no google tradutor ou até mesmo no Duolingo, também para aprendizado dessa língua. Facilitando o contato com os kokamas.
 
 
-## __Posicionando__
-* __Oportunidade de Negócios:__ Oportunidades de negócios surgem através de problemas, e as comunidades indígenas estão passando por diversos problemas, vimos aí uma oportunidade para ajudá-los e não somente eles como todos os entusiastas por esta vertente.*
-* __Instrução do Problema:__ Os povos indígenas, através dos anos, vem sofrendo com o descaso da sociedade para com eles, tendo como consequências a perda de suas culturas. O povo Kokama não seria diferente, nessa pandemia eles perderam cerca 90* anciões, isso significa uma perda significativa de conhecimentos das suas culturas. Uma solução bem sucedida traria benefícios para toda a sociedade, documentando e guardando informações, facilitando a comunicação com os Kokamas e futuramente com outros povos indígenas, ajudando a causa deles, (e mostrando para o resto do mundo que eles estão ali, que eles existem e são tão importantes quanto qualquer um.)*
-* __Instrução de Posição do Produto:__ Para a professora Altaci quem viu  a necessidade de armazenar e disseminar o conhecimento da sua cultura, esse aplicativo fornece bem mais que uma ajuda, mas sana uma necessidade de seu povo. O tradutor kokama é um aplicativo que traduz a língua dos kokama para o portugues. Já existe um aplicativo que faz isso, porém ele não foi assertivo nos seus resultados, gerando problemas ao invés de resolvê-los. O nosso produto difere dele, quanto a comunicação com o cliente, estamos usando uma metodologia de desenvolvimento que coloca a experiência com o cliente na frente, assim o resultado será o mais próximo possível daquilo que é esperado pela professora Altaci.
+
+_______________________________________
 
 ## __Descrições da Parte Interessada e do Usuário__
-* 
- * ### __Resumo da Parte Interessada:__
+### __Resumo da Parte Interessada:__
 1.   __Nome:__ Professora Altaci … (Nome do tipo da parte interessada.)
 2. __Representa:__ 
 3. __Função:__ Fornecer palavras na língua kokama e suas respectivas traduções além de estar a frente da sua equipe no projeto.
