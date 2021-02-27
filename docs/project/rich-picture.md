@@ -9,7 +9,7 @@
 | 25/02/2021 | [Luis Lins](https://github.com/luisgaboardi) e [Lucas Monteiro](https://github.com/nickby2) | Descrição de rich picture| 1.0    |
 | 26/02/2021 | [Luis Lins](https://github.com/luisgaboardi) e [Lucas Monteiro](https://github.com/nickby2) | Revisão conceitual e ortográfica| 1.0    |
 
-## Rich Picture - Visão Geral
+## Introdução
 
 Rich picture é uma ferramenta de modelagem para análise de problemas e apresentações de ideias. É um desenho que descreve o problema e o produto de maneira visual, expressando quem são as entidades do projeto e as relações que precisam ser levadas em conta no desenvolvimento do projeto. Consiste em fotos, textos, símbolos e ícones, os quais são utilizados para ilustrar graficamente a situação.
 
