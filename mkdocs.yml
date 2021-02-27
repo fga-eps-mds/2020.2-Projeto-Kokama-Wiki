@@ -29,7 +29,8 @@ theme:
 nav:
   - Produto:
       - Identidade visual: "product/visual-identity.md"
-  - Projeto:
+  - Projeto: 
+      - Rich Picture: "project/rich-picture.md"
       - Comunidade:
         - Código de conduta: "project/CODE_OF_CONDUCT.md"
         - Diretrizes de contribuição: "project/CONTRIBUTING.md"
