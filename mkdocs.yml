@@ -28,21 +28,28 @@ theme:
 # Content Menu
 nav:
   - Projeto:
-      - Comunidade:
-        - Código de conduta: "project/CODE_OF_CONDUCT.md"
-        - Diretrizes de contribuição: "project/CONTRIBUTING.md"
       - Design:
         - Documento de identidade visual: "project/visual-identity.md"
         - Protótipo de baixa fidelidade: "project/low-prototype.md"
+      - Rich Picture: "project/rich-picture.md"
+      - Comunidade:
+        - Código de conduta: "project/CODE_OF_CONDUCT.md"
+        - Diretrizes de contribuição: "project/CONTRIBUTING.md"
   - Gerência:
+    - Plano de comunicação: "management/communication-plan.md"
     - Quadro de disponibilidade: "management/availability-board.md"
     - Sprints:
       - Sprint 0:
         - Revisão e retrospectiva: "management/sprints/sprint-0.md"
+      - Sprint 1:
+        - Planejamento: "management/sprints/sprint-1-planning.md"
+        - Revisão e retrospectiva: "management/sprints/sprint-1-review-retrospective.md"
+    - Reuniões com PO: 
+      - Reunião 1: "management/po-meetings/meeting-1.md" 
 
 # Style
-# extra_css:
-#   - assets/style/extra.css
+extra_css:
+  - assets/css/extra.css
 
 # Markdown extensions
 markdown_extensions:
