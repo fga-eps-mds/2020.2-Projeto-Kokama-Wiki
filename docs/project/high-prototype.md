@@ -7,7 +7,7 @@
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
 | 23/02/2020 | [André Pinto](https://github.com/andrelucax) | Criação do template do documento | 1.0    |
 
-## Protótipo de alta fidelidade
+## Introdução
 
 ### Protótipo V1.0
 

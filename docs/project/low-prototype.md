@@ -7,7 +7,7 @@
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
 | 23/02/2020 | [André Pinto](https://github.com/andrelucax) | Adiciona primeiras versões dos protótipos | 1.0    |
 
-## Protótipo de baixa fidelidade
+## Introdução
 
 A equipe decidiu pela realização de quatro protótipos de baixa fidelidade com o intuito de discutir as visões diferentes e juntar as melhores idéias em uma reunião.
 
