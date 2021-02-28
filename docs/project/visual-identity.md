@@ -1,42 +1,54 @@
 # Identidade Visual
 
+## Histórico de revisão
 
-# 1 Introdução
+| Data       | Autor                                        | Modificações                      | Versão |
+| ---------- | -------------------------------------------- | --------------------------------- | ------ |
+| 23/02/2020 | [André Pinto](https://github.com/andrelucax) e [Lieverton Silva](https://github.com/lievertom) | Adição do tópico histórico de revisão, revisão dos tópicos, mudança da paleta de cores | 2.0    |
 
-<p> O documento de Identidade visual tem como principal objetivo definir os parâmetros dos objetos de design das telas da aplicação, que são:
-<ul>
-<li>Paleta de cores: são as cores que são utilizadas na aplicação. Caracteriza o App; </li>
-<li>Logomarca: é a marca do app;</li>
-<li>Tipografia: fonte usada.</li>
-</ul>
-</p>
+## Introdução
 
-# 2 Paleta de cores
+O documento de identidade visual tem como principal objetivo definir os parâmetros dos objetos de design das telas da aplicação, sendo eles:
 
-<p>Para realizar  a definição das cores, o maior critério foi relacionado à Identidade do Povo Kokama. Após analisarmos, chegamos ao consenso de que devemos tentar ao máximo destacar o vermelho.</p>
+* Paleta de cores: cores utilizadas na aplicação. Caracterizaa o app;
 
-<p>Portanto, escolhemos o vermelho e o branco como cores principais. Para definir as outras duas cores principais, foi feito um degradê entre elas pelo número de cores que queríamos e esse foi o resultado:</p>
+* Logomarca: Logo do app;
 
-<img src="https://github.com/fga-eps-mds/EPS-2020-2-G3/blob/visual-identity/docs/product/images/palette.png" alt="gradient" width= 450 height=200>
+* Tipografia: fonte utilizada.
 
 
+## Paleta de cores
 
-## 2.1 Paleta 
+Para realizar  a definição das cores, o critério inicial foi relacionado à identidade do povo Kokama, destacando suas cores. Com essa analise chegamos a cor vermelha.
 
-<img src="https://github.com/fga-eps-mds/EPS-2020-2-G3/blob/visual-identity/docs/product/images/gradient.png" alt="pallete" width= 450 height=200>
+Como o vermelho é uma cor muito forte, foi pensado em algo para deixar a aplicação menos agressiva. Com essa analise chegamos a cor branca.
 
+Com a cor branca como base para a aplicação foi escolhido o preto para melhor contraste e feito um degrade entre ambos. Com essa analise chegamos ao preto e tons de cinza.
 
-# 3 Topografia
+Com as cores escolhidas foi feito um exemplo em aplição para ver como ficaria:
 
-<p>A tipografia utilizada na produção do aplicativo será a tipografia padrão para Android do Native Base.</p>
+![exemplo_paleta_aplicada](../assets/img/visual-identity/pallete_example.png)
 
+## Paleta 
 
-# 4 Interface
+![paleta](../assets/img/visual-identity/pallete.png)
 
-<p>Para manter o padrão do design do do aplicativo, decidimos usar o Native Base, que é uma biblioteca de componentes UI open source. Essa biblioteca produz o design tanto para Android quanto para iOS se baseando no mesmo JavaScript.</p>
+## Tipografia
 
+A tipografia utilizada na produção do aplicativo será a tipografia padrão para Android do Native Base.
 
-# 5 Referências
-<p><b>color-blend</b>. Disponível em: https://meyerweb.com/eric/tools/color-blend/#:::hex/ . Acesso em: 25 fev. 2021.</p>
+## Interface
 
-<p><b>Adobe Color CC</b>. Disponível em: https://color.adobe.com/pt/create/color-wheel/. Acesso em: 25 fev. 2021.</p>
+Para manter o padrão do design do do aplicativo, decidimos usar o Native Base, que é uma biblioteca de componentes UI open source. Essa biblioteca produz o design tanto para Android quanto para iOS se baseando no mesmo JavaScript.
+
+## Logomarca
+
+A logomarca foi feita baseada na logomarca antiga que o cliente tinha, com mudanças no design para mostrar uma aplicação nova, mantendo os traços da logo antiga.
+
+![logo](../assets/img/visual-identity/logo.png)
+
+## Referências
+
+* **color-blend**. Disponível em: https://meyerweb.com/eric/tools/color-blend/#:::hex/ . Acesso em: 25 fev. 2021.
+
+* **Adobe Color CC**. Disponível em: https://color.adobe.com/pt/create/color-wheel/. Acesso em: 25 fev. 2021.
