@@ -23,23 +23,23 @@ A equipe realizou as atividades no período noturno em três dias com a particip
 
 **Dia 1 - 24/02/2021 - mapeamento de problemáticas e objetivos**:
 
-* Kick-off;
-* Visão do produto;
-* É, não é, faz, não faz;
-* Objetivos do produto;
-* Personas;
-* Jornada do usuário.
+- Kick-off;
+- Visão do produto;
+- É, não é, faz, não faz;
+- Objetivos do produto;
+- Personas;
+- Jornada do usuário.
 
 **Dia 2 - 25/02/2021 - mapeamento de funcionalidades e construção de MVP**:
 
-* Brainstorm de funcionalidades;
-* Revisão técnica, de negócio e de UX;
-* Sequenciador;
-* Canvas MVP.
+- Brainstorm de funcionalidades;
+- Revisão técnica, de negócio e de UX;
+- Sequenciador;
+- Canvas MVP.
 
 **Dia 3 - 26/02/2021 - apresentações e validações com a professora Altaci (PO)**:
 
-* Showcase (foco na discussão e validação dos itens: visão do produto, sequenciador, canvas MVP).
+- Showcase (foco na discussão e validação dos itens: visão do produto, sequenciador, canvas MVP).
 
 ## Referências
 

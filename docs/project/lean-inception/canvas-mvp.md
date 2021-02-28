@@ -2,8 +2,8 @@
 
 ## Histórico de revisão
 
-| Data       | Autor                                        | Modificações                                                     | Versão |
-| ---------- | -------------------------------------------- | ---------------------------------------------------------------- | ------ |
+| Data       | Autor                                        | Modificações                          | Versão |
+| ---------- | -------------------------------------------- | ------------------------------------- | ------ |
 | 28/02/2020 | [Welison Regis](https://github.com/WelisonR) | Adiciona canvas MVP da Lean Inception | 1.0    |
 
 ## Introdução
@@ -25,7 +25,6 @@ A visão geral abaixo foi apresentada e validada com a PO do projeto no dia 26/0
 ## Canvas MVP 2
 
 ![Canvas MVP 2](../../assets/img/lean-inception/canvas-mvp-2.png)
-
 
 ## Referências
 
