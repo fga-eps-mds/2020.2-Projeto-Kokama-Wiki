@@ -30,8 +30,7 @@ nav:
   - Produto:
       - Identidade visual: "product/visual-identity.md"
   - Projeto:
-      - Documentos:
-        - Documento de Visao: "project/vision-document.md"
+      - Documento de Visao: "project/vision-document.md"
       - Comunidade:
         - Código de conduta: "project/CODE_OF_CONDUCT.md"
         - Diretrizes de contribuição: "project/CONTRIBUTING.md"

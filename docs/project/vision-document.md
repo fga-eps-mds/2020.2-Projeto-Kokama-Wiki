@@ -19,7 +19,8 @@ O projeto tem como finalidade ajudar o povo Kokama a salvar a sua cultura que te
 
 ### __Escopo__
 
-Por conta da pandemia do covid-19 o povo Kokama, assim como o resto do mundo, tiveram muitas perdas entretanto, suas perdas são mais significativas já que estamos falando de um povo com uma população pequena, eles tiveram cerca de 90 anciões mortos pelo Covid-19, pessoas essas que transmitiam seus conhecimentos para os mais jovens. Assim, os Kokamas se encontram numa situação delicada, onde a sua língua pode desaparecer por completo. O Projeto Kokama ajudaria a expandir o conhecimento desse idioma, guardando suas palavras de uma forma que não poderiam vir a desaparecer novamente.
+Em um cenário onde a população indígena é constantemente atacada, se faz necessário tomar medidas que solucionem seus problemas. Um deles é a difuculdade em se comunicar com pessoas que não falam a sua língua, portanto, um aplicativo que faça essa tradução é muito bem vindo. Assim como uma forma que facilite o ensino desse idioma para outras pessoas. A perda de sua cultura é outro problema que enfrentam, então ajuadá-los a dissemina-lá trará muitos ganhos ao povo Kokama, pois sua história estará guardada de maneira que não será possível perde-lá.
+
 
 ### __Definições, acrônimos e abreviações__
 
@@ -53,7 +54,6 @@ Para a professora Altaci, quem viu a necessidade de armazenar e disseminar o con
 
 
 ## __Descrições da Parte Interessada e dos Usuários__
-O projeto inclui o primeiro aplicativo kokama tradutor desenvolvido pela Fira Soft, porém por motivos de negociação de direitos autorais a professora Altaci, que trabalha diretamente com esse povo indigena, necessita de um novo aplicativo de tradução para o mesmo. Baseado também no google tradutor ou até mesmo no Duolingo, também para aprendizado dessa língua. Facilitando o contato com os kokamas.
 
 ### __Resumo da Parte Interessada__
 
@@ -140,3 +140,12 @@ O sistema não permite pessoas não autorizadas mudar significados e informaçõ
 
 ### __Restrições de Uso__
 Para o cadastro de novas palavras e atividades é necessário ser administrador do sistema. Usuário comum poderá ter login na aplicação.
+
+
+## __Referências__
+IBM Knowledge Center - Documento de Visão: Estruturas de um Documento de Visão. 
+
+Disponível em:
+https://www.ibm.com/support/knowledgecenter/pt-br/SSWMEQ_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html 
+
+Acesso em: 27 de Fevereiro de 2021.
