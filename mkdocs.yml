@@ -28,6 +28,17 @@ theme:
 # Content Menu
 nav:
   - Projeto:
+      - Lean Inception:
+        - Introdução: "project/lean-inception/introduction.md"
+        - Visão do produto: "project/lean-inception/product-vision.md"
+        - Produto é/faz: "project/lean-inception/is-is-not-does-does-not.md"
+        - Objetivos do produto: "project/lean-inception/product-goals.md"
+        - Personas: "project/lean-inception/personas.md"
+        - Jornada do usuário: "project/lean-inception/user-journey.md"
+        - Brainstorm: "project/lean-inception/brainstorm.md"
+        - Revisão de funcionalidades: "project/lean-inception/functionalities-review.md"
+        - Sequenciador: "project/lean-inception/sequencer.md"
+        - Canvas MVP: "project/lean-inception/canvas-mvp.md"
       - Documento de visão: "project/vision-document.md"
       - Design:
         - Identidade visual: "project/visual-identity.md"
