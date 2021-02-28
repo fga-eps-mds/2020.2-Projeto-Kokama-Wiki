@@ -29,17 +29,14 @@ theme:
 nav:
   - Projeto:
       - Design:
-        - Documento de identidade visual: "project/visual-identity.md"
-        - Protótipo de baixa fidelidade: "project/low-prototype.md"
-      - Rich Picture: "project/rich-picture.md"
-      - Comunidade:
-        - Código de conduta: "project/CODE_OF_CONDUCT.md"
-        - Diretrizes de contribuição: "project/CONTRIBUTING.md"
-      - Design:
         - Identidade visual: "project/visual-identity.md"
         - Protótipo de baixa fidelidade: "project/low-prototype.md"
         - Protótipo de média fidelidade: "project/mid-prototype.md"
         - Protótipo de alta fidelidade: "project/high-prototype.md"
+      - Rich Picture: "project/rich-picture.md"
+      - Comunidade:
+        - Código de conduta: "project/CODE_OF_CONDUCT.md"
+        - Diretrizes de contribuição: "project/CONTRIBUTING.md"
   - Gerência:
     - Plano de comunicação: "management/communication-plan.md"
     - Quadro de disponibilidade: "management/availability-board.md"
