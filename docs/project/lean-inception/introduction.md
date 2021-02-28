@@ -10,6 +10,9 @@
 
 Lean Inception é o nome dado a uma oficina colaborativa realizada para alinhar um grupo de pessoas sobre o produto a ser construído. Nesse sentido, a metodologia combina caractetísticas de outros movimentos, como a Lean Startup e o Processo Unificado (RUP), a fim de delinear um produto com foco na comunicação e colaboração daqueles envolvidos ou interessados no projeto.
 
+!!! info
+    Caso alguma imagem esteja pequena ou ruim para enxergar, arrastea-a para uma nova aba do navegador ou amplie o tamanho da página (`CTRL e +`).
+
 ## Sobre a Lean Inception da equipe
 
 ![Envolvidos na Lean Inception](../../assets/img/lean-inception/team.png)
