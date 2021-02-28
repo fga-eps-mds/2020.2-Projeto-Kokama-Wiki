@@ -27,9 +27,14 @@ theme:
 
 # Content Menu
 nav:
-  - Produto:
-      - Identidade visual: "product/visual-identity.md"
   - Projeto:
+      - Documento de visão: "project/vision-document.md"
+      - Design:
+        - Identidade visual: "project/visual-identity.md"
+        - Protótipo de baixa fidelidade: "project/low-prototype.md"
+        - Protótipo de média fidelidade: "project/mid-prototype.md"
+        - Protótipo de alta fidelidade: "project/high-prototype.md"
+      - Rich Picture: "project/rich-picture.md"
       - Comunidade:
         - Código de conduta: "project/CODE_OF_CONDUCT.md"
         - Diretrizes de contribuição: "project/CONTRIBUTING.md"
@@ -42,6 +47,8 @@ nav:
       - Sprint 1:
         - Planejamento: "management/sprints/sprint-1-planning.md"
         - Revisão e retrospectiva: "management/sprints/sprint-1-review-retrospective.md"
+    - Reuniões com PO: 
+      - Reunião 1: "management/po-meetings/meeting-1.md" 
 
 # Style
 extra_css:
