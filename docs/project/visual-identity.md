@@ -5,6 +5,7 @@
 | Data       | Autor                                        | Modificações                      | Versão |
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
 | 23/02/2020 | [André Pinto](https://github.com/andrelucax) e [Lieverton Silva](https://github.com/lievertom) | Adição do tópico histórico de revisão, revisão dos tópicos, mudança da paleta de cores | 2.0    |
+| 23/02/2020 | [André Pinto](https://github.com/andrelucax) e [Lieverton Silva](https://github.com/lievertom) | Revisão da explicação da paleta de cores | 2.1    |
 
 ## Introdução
 
@@ -19,11 +20,13 @@ O documento de identidade visual tem como principal objetivo definir os parâmet
 
 ## Paleta de cores
 
-Para realizar  a definição das cores, o critério inicial foi relacionado à identidade do povo Kokama, destacando suas cores. Com essa analise chegamos a cor vermelha.
+Para realizar  a definição das cores, o critério inicial foi relacionado à identidade do povo Kokama, destacando suas cores.
 
-Como o vermelho é uma cor muito forte, foi pensado em algo para deixar a aplicação menos agressiva. Com essa analise chegamos a cor branca.
+As cores vermelha e preta estão relacionadas ao urucu e jenipapo.
 
-Com a cor branca como base para a aplicação foi escolhido o preto para melhor contraste e feito um degrade entre ambos. Com essa analise chegamos ao preto e tons de cinza.
+A cor branca marca a ausência do povo kokama na história.
+
+Com a cor branca como base para a aplicação foi escolhido o preto para melhor contraste e feito um degrade entre ambos. Com essa análise chegamos ao preto e tons de cinza.
 
 Com as cores escolhidas foi feito um exemplo em aplição para ver como ficaria:
 
