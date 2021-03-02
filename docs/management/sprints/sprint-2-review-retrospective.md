@@ -68,3 +68,56 @@
 ### Geral
 
 ![Geral - Tempo gasto na sprint](../../assets/img/sprints/sprint-2/time-team.png)
+
+## Retrospectiva
+
+### Pontos positivos
+
+1. EPS sempre disposto a ajudar e ensinar a galera de MDS
+2. MDS começou a commitar no projeto
+3. S ta de parabens, parece ta pegando a dinamica bem, esforçado, vontade de contribuir bastante aparente
+4. André também
+5. Wally sempre
+6. Professora se agradou com o nosso trabalho
+7. Professora gostou muito dos artefatos apresentados
+8. Lean Inception ajudou a organizar as ideias do projeto, apesar da demora para montar
+9. O protótipo de média <s>qualidade</s> fidelidade ficou muito bom
+10. Organização da equipe de EPS e MDS
+11. Semana produtiva
+12. Prototipo ta ficando bem bacana, elogios da professora
+13. Produto está se desenvolvendo de acordo com esperado pelo cliente
+14. Equipe soube interagir muito bem com a professora na apresentação e validação do conteúdo da sprint
+15. excelente trabalho em equipe.
+16. grupo está ficando cada vez mais pontual.
+17. rich picture ficou muito bom.
+18. Lean Inception ajudou a mapear, apresentar e validar as ideias do projeto para a professora
+19. A equipe está começando a aquecer
+20. Pareamento aparentemente tá dando certo com todas as duplas
+21. O grupo tem se envolvido bem uns com os outros
+22. Vários elogios da professora sobre o trabalho feito
+
+### Pontos a melhorar e sugestões de melhoria
+
+1. Membros se perdendo muito durante as reuniões. Parar de viajar tanto tantas vezes
+2. Dificuldade de comunicação com o Hilmer. Quando entrar em contato com ele, todos interagirmos e sermos o mais direto possível
+3. Alguns membros parecem querer fazer o mínimo trabalho, os invés de procurar fazer o melhor. Procurar revisitar a importância da disciplina e do projeto
+4. Atrasos em reunioes. Comprometimento, tem o horario marcado, reserva ele e leva a risca.
+5. Atrasos em Dailies. A Daily não está em um horário legal para esperar atrasados, remarca daaily pra outro horario ou COMPROMETIMENTO
+6. Alguns membros continuam sem apresentar vontade de trabalhar. Fazer o minímo não adianta nem na disciplina nem na vida, se esforcem
+7. Projeto parece atrasado ainda apesar dos avanços. ??? sei arrumar não
+8. Membros com dificuldade em certas áreas do conhecimento e sem interesse de melhorar isso. Tudo bem não saber tudo, mas buscar melhorar e aprender sempre
+9. Não temos as tecnologias bem definidas. Assim que tivermos o contato do responsável pelo servidor será possível definir as tecnologias
+10. Linguajar muito técnico na hora de conversar com a professora Altaci
+11. Pontualidade no início e final das reuniões
+12. Acho que deveria existir mais issues. Criar mais issues
+13. Sempre comunicar a equipe de possiveis atrasos e/ou problemas no geral, ter o máximo de transparência possivel.
+14. Ser o mais paciente possível com membros da equipe. Demonstrar opnioes e pontos de melhoria de forma calma
+15. "Tretas". Não levem os comentários pro pessoal, EPS precisa dar a opinião e pedir melhoras, é o trabalho da gerência.
+
+### Medidas a serem tomadas
+
+1. Manter o foco das reuniões, evitar e reduzir comentários dispersos dos membros da equipe;
+2. Melhorar interação com o professor no sentido de esclarecer melhor as dúvidas;
+3. Manter bots de daily e lembrar aos membros a importância desse encontro para o avanço do projeto;
+4. Incentivar o ensino de tecnologias entre a equipe, seja por recomendação de material didático ou dojos;
+5. Não utilizar palavras em inglês quando conversar com a professora e seus colaboradores.
