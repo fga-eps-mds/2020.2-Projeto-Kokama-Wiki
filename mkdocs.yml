@@ -59,6 +59,8 @@ nav:
       - Sprint 1:
         - Planejamento: "management/sprints/sprint-1-planning.md"
         - Revisão e retrospectiva: "management/sprints/sprint-1-review-retrospective.md"
+      - Sprint 2:
+        - Revisão e retrospectiva: "management/sprints/sprint-2-review-retrospective.md"
     - Reuniões com PO: 
       - Reunião 1: "management/po-meetings/meeting-1.md" 
 

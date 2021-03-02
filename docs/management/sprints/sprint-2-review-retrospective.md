@@ -121,3 +121,16 @@
 3. Manter bots de daily e lembrar aos membros a importância desse encontro para o avanço do projeto;
 4. Incentivar o ensino de tecnologias entre a equipe, seja por recomendação de material didático ou dojos;
 5. Não utilizar palavras em inglês quando conversar com a professora e seus colaboradores.
+
+## Avaliação do Scrum Master
+
+No **cumulative flow** já percebe-se que nessa sprint o backlog do projeto estava com uma alta quantidade de issues, que foram reduzidas ao longo da semana. Além disso, pode-se perceber que, com uma pequena exceção, as issues da sprint foram finalizadas com sucesso.
+
+No **velocity** percebe-se que a quantidade de pontos da sprint está bem acima das médias anteriores e, com base na análise dos dados, pode-se inferir que isso decorreu do fato de MDS adentrar mais no trabalho das issues da sprint. O **burndown** revela que 94% do planejado foi entregue, isto é, 46 pontos distribuídos em 10 issues, o que representa um ótimo resultado da sprint. Fora isso, não foi possível concluir uma das issues por questões que dependiam de validação do PO, entretanto, no domingo um pull request com a solução já havia sido aberto.
+
+Sobre o **quadro de conhecimentos**, percebe-se uma boa melhora em relação ao estudo das tecnologias e metodologias, especialmente em relação a aprendizagem de metodologias ágeis, de forma a entender que o estudo ativo (por exemplo, por realização de questionário, no caso das metodologias ágeis) pode beneficiar e incentivar os membros a serem autodidatas.
+
+Sobre o **tempo gasto na sprint**, pode-se perceber que MDS se mostra mais consistente, enquanto EPS tem uma distribuição de tempo mais anormal durante a sprint. Cabe ressaltar que sábado possui um alto número de horas devido à revisão, à retrospectiva e ao planejamento das sprints.
+
+De modo geral, o rendimento e o comprometimento da equipe tem melhorado bastante. Como medidas de melhoria, cabe adotar ações em relação aos pontos acima e aqueles elencados no tópico
+"Medidas a serem tomadas".
