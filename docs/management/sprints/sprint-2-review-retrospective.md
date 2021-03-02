@@ -32,3 +32,39 @@
 | Tarefa                                                                                                            | Pontos | Responsáveis                   | Justificativa                                                                                                                                                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------- | :----: | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Criar primeira versão do documento de identidade visual](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/37) |   5    | Lais Portela e Fernando Vargas | Gerou-se uma proposta de identidade visual, entretanto, não foi o suficiente para completar a atividade, faltou a definição da logo e a fundamentação das cores da aplicação. Professora Altaci nos deu algumas dicas e materiais para estudo, conforme pode-se ver na issue |
+
+## Cumulative Flow
+
+![Cumulative flow](../../assets/img/sprints/sprint-2/cumulative-flow.png)
+
+## Burndown
+
+![Burndown](../../assets/img/sprints/sprint-2/burndown.png)
+
+## Velocity
+
+![Velocity](../../assets/img/sprints/sprint-2/velocity.png)
+
+## Quadro de Conhecimentos
+
+### Antes
+
+![Quadro de conhecimento antes](../../assets/img/sprints/sprint-2/knowledge-board-before.png)
+
+### Depois
+
+![Quadro de conhecimento antes](../../assets/img/sprints/sprint-2/knowledge-board-after.png)
+
+### Depois por assunto
+
+![Quadro de conhecimentos - antes e depois por assunto](../../assets/img/sprints/sprint-2/knowledge-board-topics.png)
+
+## Tempo gasto na sprint
+
+### MDS e EPS
+
+![MDS e EPS - Tempo gasto na sprint](../../assets/img/sprints/sprint-2/time-eps-mds.png)
+
+### Geral
+
+![Geral - Tempo gasto na sprint](../../assets/img/sprints/sprint-2/time-team.png)
