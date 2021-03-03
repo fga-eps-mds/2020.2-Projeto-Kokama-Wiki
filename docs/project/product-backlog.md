@@ -32,10 +32,9 @@ A inserção de pontos no backlog foi realizada utilizando o Lean Inception real
 
 ## 3. Backlog
 
-<img src="../assets/img/product-backlog/product-backlog.png" title="Título"></img>
+![Backlog](../assets/img/product-backlog/product-backlog.png)
 
 ## 4. Referências 
-
 
  Camargo, Robson. Backlog: aprenda o que é e como compatibilizar com o fluxo de trabalho. Robson Camargo, 04/12/2019 . Disponível em: <https://robsoncamargo.com.br/blog/Backlog-o-que-e-e-como-pode-ajudar-em-seus-projetos>. Acesso em: 02, de março de 2021.
 
