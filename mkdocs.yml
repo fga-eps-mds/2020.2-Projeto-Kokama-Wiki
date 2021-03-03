@@ -46,6 +46,7 @@ nav:
         - Protótipo de média fidelidade: "project/mid-prototype.md"
         - Protótipo de alta fidelidade: "project/high-prototype.md"
       - Rich Picture: "project/rich-picture.md"
+      - Arquitetura: "project/architecture-document.md"
       - Comunidade:
         - Código de conduta: "project/CODE_OF_CONDUCT.md"
         - Diretrizes de contribuição: "project/CONTRIBUTING.md"
