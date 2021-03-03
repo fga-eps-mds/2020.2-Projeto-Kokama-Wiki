@@ -42,4 +42,11 @@ Para a equipe de MDS foram atribuidas tarefas associadas à visão do produto e 
 
 ## Papéis
 
-Para esta sprint os papéis ainda não haviam sido totalmente definidos.
+Está sprint foi a primeira com os papéis definidos.
+
+| Papel          | Membro            |
+| :------------: | ----------------- |
+| Scrum Master   | Welison Regis     |
+| DevOps         | Leonardo Medeiros |
+| Arquiteto      | Lieverton Santos  |
+| Product Owner  | André Pinto       |
