@@ -24,14 +24,14 @@
 | [Desenvolver primeira versão de rich picture do projeto](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/33)  |   5    | Luís Guilherme e Lucas Monteiro                                                                             |
 | [Desenvolver primeira versão do documento de visão ](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/34)      |   13   | Ana Júlia e Luiz Gustavo                                                                                    |
 | [Desenvolver protótipo de baixa fidelidade](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/35)               |   5    | Welison Regis, Lieverton Silva, André Pinto, Luís Guilherme, Laís Portela, Fernando Vargas e Lucas Monteiro |
-| [Criar primeira versão do documento de identidade visual](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/37) |   5    | Lais Portela e Fernando Vargas                                                                              |
+| [Criar primeira versão do documento de identidade visual](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/36) |   5    | Lais Portela e Fernando Vargas                                                                              |
 | [Documentar protótipo de média fidelidade](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/37)                |   5    | André Pinto e Leonardo Medeiros                                                                             |
 
 ## Dívidas técnicas
 
 | Tarefa                                                                                                            | Pontos | Responsáveis                   | Justificativa                                                                                                                                                                                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------- | :----: | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Criar primeira versão do documento de identidade visual](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/37) |   5    | Lais Portela e Fernando Vargas | Gerou-se uma proposta de identidade visual, entretanto, não foi o suficiente para completar a atividade, faltou a definição da logo e a fundamentação das cores da aplicação. Professora Altaci nos deu algumas dicas e materiais para estudo, conforme pode-se ver na issue |
+| [Criar primeira versão do documento de identidade visual](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/36) |   5    | Lais Portela e Fernando Vargas | Gerou-se uma proposta de identidade visual, entretanto, não foi o suficiente para completar a atividade, faltou a definição da logo e a fundamentação das cores da aplicação. Professora Altaci nos deu algumas dicas e materiais para estudo, conforme pode-se ver na issue |
 
 ## Cumulative Flow
 
