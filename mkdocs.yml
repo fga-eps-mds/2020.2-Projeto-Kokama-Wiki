@@ -13,11 +13,11 @@ copyright: "Copyright &copy; 2021 MDS/EPS"
 
 # Theme settings
 theme:
-  # logo: "docs/assets/img/logoicon.png"
-  # favicon: "docs/assets/img/favicon.png"
+  logo: assets/logo.png
+  favicon: assets/logo.png
   font:
-  text: "Roboto"
-  code: "Roboto Mono"
+    text: "Roboto"
+    code: "Roboto Mono"
   features:
     - navigation.tabs
   language: "pt"
@@ -25,6 +25,7 @@ theme:
   palette:
     primary: "red"
     accent: "grey"
+    
 
 # Content Menu
 nav:
