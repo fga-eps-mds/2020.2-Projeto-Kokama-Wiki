@@ -1,6 +1,5 @@
 # Rich Picture
 
-
 ## Histórico de revisão
 
 | Data       | Autor                                        | Modificações                      | Versão |

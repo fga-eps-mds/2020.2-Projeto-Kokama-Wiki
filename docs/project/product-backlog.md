@@ -1,5 +1,13 @@
 # Documentação do Backlog do Produto
 
+## Histórico de revisão
+
+| Data       | Autor                                        | Modificações                      | Versão |
+| ---------- | -------------------------------------------- | --------------------------------- | ------ |
+| 02/03/2021 | [Luis Lins](https://github.com/luisgaboardi) e [Laís Portela](https://github.com/laispa) | Criado template e preenchido documento | 1.0    |
+| 02/03/2021 | [Luis Lins](https://github.com/luisgaboardi) e [Laís Portela](https://github.com/laispa) | Adicionado documento na Wiki | 1.0    |
+| 02/03/2021 | [Luis Lins](https://github.com/luisgaboardi) e [Laís Portela](https://github.com/laispa) | Consertado visualização da imagem no documento | 1.0    |
+
 ## Sumário
 
 1. Introdução
@@ -19,7 +27,7 @@ Uma época representa uma coleção de funcionalidades da aplicação que estão
 
 Se trata de uma área específica de uma grande funcionalidade(época)
 
-### 1.3 US (história de usuário):
+### 1.3 US (história de usuário)
 
 Representa o que o Product Owner gostaria de ser capaz de fazer na aplicação através de um relato
 
