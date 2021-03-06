@@ -4,13 +4,13 @@
 
 | Data       | Autor                                                | Modificações                                      | Versão |
 | ---------- | ---------------------------------------------------- | ------------------------------------------------- | ------ |
-| 06/03/2020 | [Leonardo Medeiros](https://github.com/leomedeiros1), [Andre Pinto](https://github.com/andrelucax) | Adiciona documentação do teste de usabilidade realizado | 1.0    |
+| 06/03/2021 | [Leonardo Medeiros](https://github.com/leomedeiros1), [Andre Pinto](https://github.com/andrelucax) | Adiciona documentação do teste de usabilidade realizado | 1.0    |
 
 ## Síntese
 
 O teste foi realizado durante a 3° reunião com a PO, no dia 05/03, usando a primeira versão do protótipo de alta fidelidade. O objetivo desta dinâmica era validar pontos sobre a usabilidade, tentando obter informações sobre a organização da tela 'Tradução' e das telas de administração de modo geral.
 
-Esta dinâmica pode ser encontrada no video gravação [aqui][reuniao], especificamente no momento 00:06:34.
+Esta dinâmica pode ser encontrada na gravação, [aqui][reuniao], especificamente no momento 00:06:34.
 
 ## Casos de teste
 
@@ -35,4 +35,4 @@ A partir da observação das dificuldades do usuário, alguns pontos foram desta
 * Icones não eram suficientemente significativos, logo, as páginas devem possuir identificação mais clara de suas funções;
 * Integrar as funções de gerência ao aplicativo mobile impacta na complexidade do uso, surgindo a possibilidade de remover estas funções para uma interface web, de forma a deixar as funções de administrador mais explicitamente definidas.
 
-[reuniao]: 
+[reuniao]: https://drive.google.com/file/d/1QazeKp3qL8-SffeUfa-ueEwHZ4-PiQq_/view?usp=sharing
