@@ -10,7 +10,7 @@
 
 ## Introdução
 
-A principal idéia do protótipo era validar a nova identidade visual, que obteve ótima aceitação do PO. A cor branca como principal e o vermelho apenas para destaques, sem deixar de lado a identidade Kokama, diminuindo o impacto que a cor vermelha trazia antes.
+A principal idéia do protótipo era validar a nova identidade visual, que obteve ótima aceitação do PO. A nova proposta foi baseadad na cor branca como principal e no vermelho apenas para destaques, sem deixar de lado a identidade Kokama, diminuindo o impacto visual e subconsciente que a cor vermelha trazia antes.
 
 ### Protótipo V1.0
 
@@ -30,7 +30,7 @@ O protótipo interativo pode ser acessado no [link](https://www.figma.com/proto/
 
 Os principais pontos observados pelo cliente foi:
 
-* Icones não estavam muito intuitivos. Alguns icones acabaram passando a ideia errada de sua funcionalidade. Icone de ensino foi confundido com dicionário;
+* Icones não estavam intuitivos. Alguns icones acabaram passando a ideia errada de sua funcionalidade em especia, o icone de ensino foi confundido com dicionário;
 
 * Colocar nome nas páginas ajudaria a entender melhor o aplicativo nos primeiros passos;
 
