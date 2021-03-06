@@ -4,11 +4,11 @@
 
 | Data       | Autor                                        | Modificações                      | Versão |
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
-| 26/02/2020 | [Fernando Vargas](https://github.com/SFernandoS) e [Lais Aguiar](https://github.com/laispa) | Adição do documento de identidade visual inicial | 1.0    |
-| 28/02/2020 | [André Pinto](https://github.com/andrelucax) e [Lieverton Silva](https://github.com/lievertom) | Adição do tópico histórico de revisão, revisão dos tópicos, mudança da paleta de cores | 2.0    |
-| 28/02/2020 | [André Pinto](https://github.com/andrelucax) e [Lieverton Silva](https://github.com/lievertom) | Revisão da explicação da paleta de cores | 2.1    |
-| 28/02/2020 | [André Pinto](https://github.com/andrelucax) e [Lieverton Silva](https://github.com/lievertom) | Correção da data do histórico de revisão e adição do histórico antigo | 2.2    |
-| 06/03/2020 | [André Pinto](https://github.com/andrelucax) e [Lieverton Silva](https://github.com/lievertom) |  Atualização da logo | 2.3    |
+| 26/02/2021 | [Fernando Vargas](https://github.com/SFernandoS) e [Lais Aguiar](https://github.com/laispa) | Adição do documento de identidade visual inicial | 1.0    |
+| 28/02/2021 | [André Pinto](https://github.com/andrelucax) e [Lieverton Silva](https://github.com/lievertom) | Adição do tópico histórico de revisão, revisão dos tópicos, mudança da paleta de cores | 2.0    |
+| 28/02/2021 | [André Pinto](https://github.com/andrelucax) e [Lieverton Silva](https://github.com/lievertom) | Revisão da explicação da paleta de cores | 2.1    |
+| 28/02/2021 | [André Pinto](https://github.com/andrelucax) e [Lieverton Silva](https://github.com/lievertom) | Correção da data do histórico de revisão e adição do histórico antigo | 2.2    |
+| 06/03/2021 | [André Pinto](https://github.com/andrelucax) e [Lieverton Silva](https://github.com/lievertom) |  Atualização da logo | 2.3    |
 
 ## Introdução
 
