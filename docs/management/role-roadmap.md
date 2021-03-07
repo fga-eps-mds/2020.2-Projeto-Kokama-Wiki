@@ -5,7 +5,7 @@
 
 | Data       | Autor                                        | Modificações                      | Versão |
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
-| 28/02/2020 | [André Pinto](https://github.com/andrelucax) e [Lieverton Silva](https://github.com/lievertom) | Adiciona o documento do roadmap de papeis | 1.0    |
+| 28/02/2021 | [André Pinto](https://github.com/andrelucax) e [Lieverton Silva](https://github.com/lievertom) | Adiciona o documento do roadmap de papeis | 1.0    |
 
 ## Diagrama
 

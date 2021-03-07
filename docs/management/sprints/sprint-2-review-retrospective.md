@@ -4,7 +4,7 @@
 
 | Data       | Autor                                        | Modificações                                 | Versão |
 | ---------- | -------------------------------------------- | -------------------------------------------- | ------ |
-| 02/03/2020 | [Welison Regis](https://github.com/WelisonR) | Adiciona revisão e retrospectiva da sprint 2 | 1.0    |
+| 02/03/2021 | [Welison Regis](https://github.com/WelisonR) | Adiciona revisão e retrospectiva da sprint 2 | 1.0    |
 
 ## Visão Geral
 

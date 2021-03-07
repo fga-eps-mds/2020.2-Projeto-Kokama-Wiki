@@ -4,7 +4,7 @@
 
 | Data       | Autor                                        | Modificações                                             | Versão |
 | ---------- | -------------------------------------------- | -------------------------------------------------------- | ------ |
-| 28/02/2020 | [Welison Regis](https://github.com/WelisonR) | Adiciona brainstorm de funcionalidades da Lean Inception | 1.0    |
+| 28/02/2021 | [Welison Regis](https://github.com/WelisonR) | Adiciona brainstorm de funcionalidades da Lean Inception | 1.0    |
 
 ## Introdução
 

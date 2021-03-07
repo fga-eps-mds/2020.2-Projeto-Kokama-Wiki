@@ -4,7 +4,7 @@
 
 | Data       | Autor                                                                                          | Modificações                        | Versão |
 | ---------- | ---------------------------------------------------------------------------------------------- | ----------------------------------- | ------ |
-| 20/02/2020 | [Welison Regis](https://github.com/WelisonR) e [Lieverton Silva](https://github.com/lievertom) | Adiciona diretrizes de contribuição | 1.0    |
+| 20/02/2021 | [Welison Regis](https://github.com/WelisonR) e [Lieverton Silva](https://github.com/lievertom) | Adiciona diretrizes de contribuição | 1.0    |
 
 ## Como contribuir?
 

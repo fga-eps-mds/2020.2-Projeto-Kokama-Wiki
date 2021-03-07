@@ -4,7 +4,7 @@
 
 | Data       | Autor                                                | Modificações                                      | Versão |
 | ---------- | ---------------------------------------------------- | ------------------------------------------------- | ------ |
-| 01/03/2020 | [Leonardo Medeiros](https://github.com/leomedeiros1) | Adiciona documentação de planejamento da sprint 2 | 1.0    |
+| 01/03/2021 | [Leonardo Medeiros](https://github.com/leomedeiros1) | Adiciona documentação de planejamento da sprint 2 | 1.0    |
 
 ## Tamanho da sprint
 

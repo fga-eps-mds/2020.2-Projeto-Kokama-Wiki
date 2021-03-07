@@ -4,13 +4,13 @@
 
 | Data       | Autor                                        | Modificações                      | Versão |
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
-| 16/02/2020 | [Welison Regis](https://github.com/WelisonR) | Adiciona documentação da sprint 0 | 1.0    |
+| 16/02/2021 | [Welison Regis](https://github.com/WelisonR) | Adiciona documentação da sprint 0 | 1.0    |
 
 ## Visão Geral
 
 |        Duração da sprint        | Planejado | Entregue  | Divida técnica | Membros ausentes |
 | :-----------------------------: | :-------: | :-------: | :------------: | :--------------: |
-| **03/02/2020** a **13/02/2020** |     -     | 35 pontos |       -        |      Nenhum      |
+| **03/02/2021** a **13/02/2021** |     -     | 35 pontos |       -        |      Nenhum      |
 
 ## Tarefas Realizadas
 

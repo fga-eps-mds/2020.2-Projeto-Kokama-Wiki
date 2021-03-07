@@ -5,7 +5,7 @@
 
 | Data       | Autor                                        | Modificações                      | Versão |
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
-| 23/02/2020 | [André Pinto](https://github.com/andrelucax) | Adiciona primeiras versões dos protótipos | 1.0    |
+| 23/02/2021 | [André Pinto](https://github.com/andrelucax) | Adiciona primeiras versões dos protótipos | 1.0    |
 
 ## Introdução
 

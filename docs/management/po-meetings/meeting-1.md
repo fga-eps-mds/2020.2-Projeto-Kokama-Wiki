@@ -4,13 +4,13 @@
 
 | Data       | Autor                                           | Modificações                 | Versão |
 | ---------- | ----------------------------------------------- | ---------------------------- | ------ |
-| 25/02/2020 | [Lieverton Silva](https://github.com/lievertom) | Adiciona [reunião](#reunião) | 1.0    |
+| 25/02/2021 | [Lieverton Silva](https://github.com/lievertom) | Adiciona [reunião](#reunião) | 1.0    |
 
 ## Introdução
 
 O presente documento visa registrar e apresentar informações pertinentes geradas nas reuniões com os donos do produto, assim como servir de embasamento para futuras tomadas de decisão.
 
-**Data:** 19/02/2020
+**Data:** 19/02/2021
 
 **Participantes:** Professora Altaci, Equipe de Desenvolvimento e Equipe de Gerenciamento.
 

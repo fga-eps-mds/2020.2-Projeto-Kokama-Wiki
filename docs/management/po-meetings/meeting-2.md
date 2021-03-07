@@ -4,13 +4,13 @@
 
 | Data       | Autor                                           | Modificações                 | Versão |
 | ---------- | ----------------------------------------------- | ---------------------------- | ------ |
-| 02/03/2020 | [Leonardo Medeiros](https://github.com/leomedeiros1) | Adiciona documentação da segunda reunião com a PO | 1.0    |
+| 02/03/2021 | [Leonardo Medeiros](https://github.com/leomedeiros1) | Adiciona documentação da segunda reunião com a PO | 1.0    |
 
 ## Introdução
 
 O presente documento visa registrar e apresentar informações pertinentes geradas nas reuniões com os donos do produto, assim como servir de embasamento para futuras tomadas de decisão.
 
-**Data:** 26/02/2020
+**Data:** 26/02/2021
 
 * A reunião pode ser encontrada na integra [aqui][reuniao].
 
