@@ -1,6 +1,6 @@
-<!-- <p align="center">
-  <img src="https://i.imgur.com/5wtqEys.png" alt="Projeto Kokama" width="50%"/>
-</p> -->
+ <p align="center">
+  <img src='docs/assets/img/logo.png' alt="Projeto Kokama" width="30%"/>
+</p> 
 
 <h1 align="center">
   Projeto Kokama
