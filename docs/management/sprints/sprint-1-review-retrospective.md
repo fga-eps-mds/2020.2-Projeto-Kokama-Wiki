@@ -4,7 +4,7 @@
 
 | Data       | Autor                                        | Modificações                                 | Versão |
 | ---------- | -------------------------------------------- | -------------------------------------------- | ------ |
-| 25/02/2020 | [Welison Regis](https://github.com/WelisonR) | Adiciona revisão e retrospectiva da sprint 1 | 1.0    |
+| 25/02/2021 | [Welison Regis](https://github.com/WelisonR) | Adiciona revisão e retrospectiva da sprint 1 | 1.0    |
 
 ## Visão Geral
 
@@ -16,12 +16,12 @@
 
 | Tarefa                                                                                                     | Pontos | Responsáveis                                                                                                        |     Concluída?     |
 | ---------------------------------------------------------------------------------------------------------- | :----: | ------------------------------------------------------------------------------------------------------------------- | :----------------: |
-| [Criar documento de contribuição do repositório](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/5)    |   3    | [Welison Regis](https://github.com/WelisonR) e [Lieverton Silva](https://github.com/lievertom)                      | :heavy_check_mark: |
-| [Criar documento de código de conduta](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/12)             |   2    | [Leonardo Medeiro](https://github.com/leomedeiros1?tab=repositories)                                                | :heavy_check_mark: |
-| [Criar landing page para a wiki](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/15)                   |   5    | [Lieverton Silva](https://github.com/lievertom)                                                                     | :heavy_check_mark: |
-| [Documentar sprint 0](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/18)                              |   5    | [Welison Regis](https://github.com/WelisonR)                                                                        | :heavy_check_mark: |
-| [Dojo de python e programação orientada a objetos](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/19) |   8    | [André Lucas](https://github.com/andrelucax) e [Leonardo Medeiro](https://github.com/leomedeiros1?tab=repositories) | :heavy_check_mark: |
-| [Levantamento de dúvidas sobre o projeto](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/22)          |   1    | Todos os membros                                                                                                    | :heavy_check_mark: |
+| [Criar documento de contribuição do repositório](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/5)    |   3    | [Welison Regis](https://github.com/WelisonR) e [Lieverton Silva](https://github.com/lievertom)                      | :heavy_check_mark: |
+| [Criar documento de código de conduta](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/12)             |   2    | [Leonardo Medeiro](https://github.com/leomedeiros1?tab=repositories)                                                | :heavy_check_mark: |
+| [Criar landing page para a wiki](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/15)                   |   5    | [Lieverton Silva](https://github.com/lievertom)                                                                     | :heavy_check_mark: |
+| [Documentar sprint 0](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/18)                              |   5    | [Welison Regis](https://github.com/WelisonR)                                                                        | :heavy_check_mark: |
+| [Dojo de python e programação orientada a objetos](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/19) |   8    | [André Lucas](https://github.com/andrelucax) e [Leonardo Medeiro](https://github.com/leomedeiros1?tab=repositories) | :heavy_check_mark: |
+| [Levantamento de dúvidas sobre o projeto](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/22)          |   1    | Todos os membros                                                                                                    | :heavy_check_mark: |
 
 ## Cumulative Flow
 

@@ -4,9 +4,9 @@
 
 | Data       | Autor                                                                                               | Modificações                        | Versão |
 | ---------- | --------------------------------------------------------------------------------------------------- | ----------------------------------- | ------ |
-| 23/02/2020 | [André Pinto](https://github.com/andrelucax)                                                        | Criação do template do documento    | 0.1    |
-| 23/02/2020 | [André Pinto](https://github.com/andrelucax) e [Leonardo Medeiros](https://github.com/leomedeiros1) | Adição da documentação do protótipo | 0.2    |
-| 23/02/2020 | [Welison Regis](https://github.com/WelisonR)                                                        | Revisa e melhora documento do protótipo de alta fidelidade         | 0.3    |
+| 23/02/2021 | [André Pinto](https://github.com/andrelucax)                                                        | Criação do template do documento    | 0.1    |
+| 23/02/2021 | [André Pinto](https://github.com/andrelucax) e [Leonardo Medeiros](https://github.com/leomedeiros1) | Adição da documentação do protótipo | 0.2    |
+| 23/02/2021 | [Welison Regis](https://github.com/WelisonR)                                                        | Revisa e melhora documento do protótipo de alta fidelidade         | 0.3    |
 
 ## Introdução
 
