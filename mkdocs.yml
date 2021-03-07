@@ -1,15 +1,15 @@
 # Project information
-site_name: "MDS/EPS"
+site_name: "Projeto Kokama"
 site_description: "TODO"
 site_author: "Grupo 03"
 site_url: "https://fga-eps-mds.github.io/EPS-2020-2-G3/"
 
 # Repository
-repo_name: "MDS/EPS"
+repo_name: "Projeto Kokama"
 repo_url: "https://github.com/fga-eps-mds/EPS-2020-2-G3/"
 
 # Copyright
-copyright: "Copyright &copy; 2021 MDS/EPS"
+copyright: "Copyright &copy; 2021 Projeto Kokama"
 
 # Theme settings
 theme:
@@ -25,8 +25,6 @@ theme:
   palette: 
     primary: "red"
     accent: "grey"
-    
-    
 
 # Content Menu
 nav:

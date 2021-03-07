@@ -1,5 +1,5 @@
  <p align="center">
-  <img src='docs/assets/img/logo.png' alt="Projeto Kokama" width="50%"/>
+  <img src='docs/assets/img/logo.png' alt="Projeto Kokama" width="30%"/>
 </p> 
 
 <h1 align="center">
