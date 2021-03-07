@@ -28,12 +28,14 @@ FGA - Faculdade do gama
 
 ## 2. Representação Arquitetural
 
+![Diagrama Macro de Arquitetura](../assets/img/architecture/architecture_diagram.png)
+
 ## 3. Metas e Restrições de Arquitetura
 
 Linguagem: Python e Java Script
 Framework: Django
 Plataforma: Android e IOS
-Segurança:O usuário poderá usar senha para proteger os seus dados 
+Segurança:O usuário poderá usar senha para proteger os seus dados
 Idioma: Português
 
 ## 4. Visão de lógica
@@ -41,7 +43,5 @@ Idioma: Português
 ## 6. Pipeline
 
 ## 7. Referência Bibliográfica
-
-
 
 Criação de Diagramas de Caso de Uso: Diagrams. Acesso em: <https://app.diagrams.net/>
