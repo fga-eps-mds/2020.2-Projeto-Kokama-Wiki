@@ -16,15 +16,15 @@
 
 | Tarefa | Responsáveis | Pontuação | Concluída? |
 | ------ | ------------ | :-------: | :--------: |
-| [Criar templates de *issues*, *pull requests* e outros](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/1) | [Welison Regis](https://github.com/WelisonR) e [Lieverton Silva](https://github.com/lievertom) | 3 | :heavy_check_mark: |
-| [Adicionar licença do projeto](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/2) | [Lieverton Silva](https://github.com/lievertom) | 1 | :heavy_check_mark: |
-| [Configurar wiki com MKDocs Material](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/3) | [Welison Regis](https://github.com/WelisonR) e [Lieverton Silva](https://github.com/lievertom) | 5 | :heavy_check_mark: |
-| [Pensar situações, problemas e oportunidades de projeto](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/4) | Todo o time | 8 | :heavy_check_mark: |
-| [Criar documento de contribuição do repositório](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/5) | [Welison Regis](https://github.com/WelisonR) e [Lieverton Silva](https://github.com/lievertom) | 3 | :heavy_check_mark: |
-| [Criar documento de disponibilidade da equipe](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/6) | [Welison Regis](https://github.com/WelisonR) | 2 | :heavy_check_mark: |
-| [Criar quadro de conhecimentos da equipe (inicial)](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/7) | [Welison Regis](https://github.com/WelisonR) | 3 | :heavy_check_mark: |
-| [Definir canais iniciais do projeto](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/8) | [Welison Regis](https://github.com/WelisonR) | 5 | :heavy_check_mark: |
-| [Dojo de git e trabalho em equipe](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/10) | [André Lucas](https://github.com/andrelucax) e [Leonardo Medeiro](https://github.com/leomedeiros1?tab=repositories) | 5 | :heavy_check_mark: |
+| [Criar templates de *issues*, *pull requests* e outros](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/1) | [Welison Regis](https://github.com/WelisonR) e [Lieverton Silva](https://github.com/lievertom) | 3 | :heavy_check_mark: |
+| [Adicionar licença do projeto](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/2) | [Lieverton Silva](https://github.com/lievertom) | 1 | :heavy_check_mark: |
+| [Configurar wiki com MKDocs Material](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/3) | [Welison Regis](https://github.com/WelisonR) e [Lieverton Silva](https://github.com/lievertom) | 5 | :heavy_check_mark: |
+| [Pensar situações, problemas e oportunidades de projeto](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/4) | Todo o time | 8 | :heavy_check_mark: |
+| [Criar documento de contribuição do repositório](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/5) | [Welison Regis](https://github.com/WelisonR) e [Lieverton Silva](https://github.com/lievertom) | 3 | :heavy_check_mark: |
+| [Criar documento de disponibilidade da equipe](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/6) | [Welison Regis](https://github.com/WelisonR) | 2 | :heavy_check_mark: |
+| [Criar quadro de conhecimentos da equipe (inicial)](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/7) | [Welison Regis](https://github.com/WelisonR) | 3 | :heavy_check_mark: |
+| [Definir canais iniciais do projeto](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/8) | [Welison Regis](https://github.com/WelisonR) | 5 | :heavy_check_mark: |
+| [Dojo de git e trabalho em equipe](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/10) | [André Lucas](https://github.com/andrelucax) e [Leonardo Medeiro](https://github.com/leomedeiros1?tab=repositories) | 5 | :heavy_check_mark: |
 
 ## Cumulative Flow
 

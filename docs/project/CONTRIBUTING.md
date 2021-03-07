@@ -8,7 +8,7 @@
 
 ## Como contribuir?
 
-Antes de realizar uma contribuição, conheça um pouco sobre o objetivo do projeto e também sobre o povo Kokama na nossa [documentação](https://fga-eps-mds.github.io/EPS-2020-2-G3/).
+Antes de realizar uma contribuição, conheça um pouco sobre o objetivo do projeto e também sobre o povo Kokama na nossa [documentação](https://fga-eps-mds.github.io/2020.2-Projeto-Kokama-Wiki/).
 
 Contribuições ao projeto são muito bem-vindas. Para manter um projeto bem organizado, ao contribuir observe as políticas abaixo:
 
@@ -20,12 +20,12 @@ Contribuições ao projeto são muito bem-vindas. Para manter um projeto bem org
 
 ### Política de _issues_
 
-Para criação de issue, um [template de issue](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/new/choose) deve ser seguido.
+Para criação de issue, um [template de issue](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/new/choose) deve ser seguido.
 
 Caso encontre um bug ou tenha alguma sugestão de melhoria ao projeto, siga os passos abaixo:
 
-1. Verifique se já existe a [issue no repositório](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues);
-2. Caso não exista nenhuma issue relacionada, [crie uma issue](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/new/choose);
+1. Verifique se já existe a [issue no repositório](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues);
+2. Caso não exista nenhuma issue relacionada, [crie uma issue](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/new/choose);
    1. Escolha o template de issue;
    2. Preencha a issue de acordo com a orientação do template;
    3. Defina as labels que são pertinentes ao problema ou sugestão;
@@ -105,7 +105,7 @@ Quando disponível uma nova _release_ ou funcionalidade, esta será integrada at
 
 Caso um _pull request_ já estava aberto e atualmente está em progresso, o título deve seguir o padrão `[WIP] Título`.
 
-Durante a criação de um _pull request_, deve-se observar o [template definido no repositório](https://github.com/fga-eps-mds/EPS-2020-2-G3/compare).
+Durante a criação de um _pull request_, deve-se observar o [template definido no repositório](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/compare).
 
 ##### _Code Review_
 

@@ -27,12 +27,12 @@ Nessa sprint, o time de modo geral ficará responsável pelo levantamento de ide
 
 | Issue                                                                                                      | Pontos | Responsáveis                    |
 | ---------------------------------------------------------------------------------------------------------- | :----: | ------------------------------- |
-| [Criar documento de contribuição do repositório](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/5)    |   3    | Lieverton Silva e Welison Regis |
-| [Criar documento de código de conduta](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/12)             |   2    | Leonardo Medeiros               |
-| [Criar landing page para a wiki](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/15)                   |   5    | Lieverton Silva                 |
-| [Documentar sprint 0](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/18)                              |   5    | Welison Regis                   |
-| [Dojo de python e programação orientada a objetos](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/19) |   8    | André Pinto e Leonardo Medeiros |
-| [Levantamento de dúvidas sobre o projeto](https://github.com/fga-eps-mds/EPS-2020-2-G3/issues/22)          |   1    | Todos os membros                |
+| [Criar documento de contribuição do repositório](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/5)    |   3    | Lieverton Silva e Welison Regis |
+| [Criar documento de código de conduta](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/12)             |   2    | Leonardo Medeiros               |
+| [Criar landing page para a wiki](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/15)                   |   5    | Lieverton Silva                 |
+| [Documentar sprint 0](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/18)                              |   5    | Welison Regis                   |
+| [Dojo de python e programação orientada a objetos](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/19) |   8    | André Pinto e Leonardo Medeiros |
+| [Levantamento de dúvidas sobre o projeto](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/22)          |   1    | Todos os membros                |
 
 ## Papéis
 
