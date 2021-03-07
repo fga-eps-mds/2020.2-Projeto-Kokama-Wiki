@@ -8,6 +8,7 @@
 | 02/03/2020 | [Lais Aguiar](https://github.com/laispa) e [Luis Lins](https://github.com/luisgaboardi) | Adicionado sumário | 0.2    |
 | 02/03/2020 | [Lais Aguiar](https://github.com/laispa) e [Luis Lins](https://github.com/luisgaboardi) | Adicionado tópicos 1, 3 e 4| 0.3    |
 | 06/03/2020 | [Lieverton Silva](https://github.com/lievertom) | remove casos de uso e sumário | 0.4    |
+| 06/03/2020 | [Lieverton Silva](https://github.com/lievertom) | adiciona diagrmas macro e lógico | 0.5    |
 
 ## 1. Introdução
 
@@ -40,8 +41,8 @@ Idioma: Português
 
 ## 4. Visão de lógica
 
+![Diagrama Lógico](../assets/img/architecture/logic_diagram.png)
+
 ## 6. Pipeline
 
 ## 7. Referência Bibliográfica
-
-Criação de Diagramas de Caso de Uso: Diagrams. Acesso em: <https://app.diagrams.net/>
