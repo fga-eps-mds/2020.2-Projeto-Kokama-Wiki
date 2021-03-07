@@ -1,28 +1,28 @@
 # Protótipo de alta fidelidade
 
-
 ## Histórico de revisão
 
-| Data       | Autor                                        | Modificações                      | Versão |
-| ---------- | -------------------------------------------- | --------------------------------- | ------ |
-| 23/02/2020 | [André Pinto](https://github.com/andrelucax) | Criação do template do documento | 0.1    |
+| Data       | Autor                                                                                               | Modificações                        | Versão |
+| ---------- | --------------------------------------------------------------------------------------------------- | ----------------------------------- | ------ |
+| 23/02/2020 | [André Pinto](https://github.com/andrelucax)                                                        | Criação do template do documento    | 0.1    |
 | 23/02/2020 | [André Pinto](https://github.com/andrelucax) e [Leonardo Medeiros](https://github.com/leomedeiros1) | Adição da documentação do protótipo | 0.2    |
+| 23/02/2020 | [Welison Regis](https://github.com/WelisonR)                                                        | Revisa e melhora documento do protótipo de alta fidelidade         | 0.3    |
 
 ## Introdução
 
-A principal idéia do protótipo era validar a nova identidade visual, que obteve ótima aceitação do PO. A nova proposta foi baseadad na cor branca como principal e no vermelho apenas para destaques, sem deixar de lado a identidade Kokama, diminuindo o impacto visual e subconsciente que a cor vermelha trazia antes.
+A principal finalidade do protótipo de alta fidelidade foi validar a nova identidade visual, que obteve ótima aceitação por parte da professora Altaci (PO). A nova proposta tem como cor principal o branca e utiliza a cor vermelha apenas para destaques, sem deixar de lado a identidade Kokama, além de diminuir o impacto visual e subconsciente que a cor vermelha trazia antes.
 
 ### Protótipo V1.0
 
-Autores: 
+Autores:
 
-* [André Pinto](https://github.com/andrelucax)
+- [André Pinto](https://github.com/andrelucax)
 
-* [Lieverton Silva](https://github.com/lievertom)
+- [Lieverton Silva](https://github.com/lievertom)
 
-* [Ana Júlia](https://github.com/aluzianobriceno)
+- [Ana Júlia](https://github.com/aluzianobriceno)
 
-* [Fernando Vargas](https://github.com/SFernandoS)
+- [Fernando Vargas](https://github.com/SFernandoS)
 
 Data: 03/06/2021
 
@@ -30,13 +30,13 @@ O protótipo interativo pode ser acessado no [link](https://www.figma.com/proto/
 
 Os principais pontos observados pelo cliente foi:
 
-* Icones não estavam intuitivos. Alguns icones acabaram passando a ideia errada de sua funcionalidade em especia, o icone de ensino foi confundido com dicionário;
+- Icones não estavam intuitivos. Alguns icones acabaram passando a ideia errada de sua funcionalidade, especialmente o icone de ensino que foi confundido com dicionário;
 
-* Colocar nome nas páginas ajudaria a entender melhor o aplicativo nos primeiros passos;
+- Colocar o título nas páginas ajudaria a entender melhor o aplicativo nos primeiros passos;
 
-* O exemplo de exercício faltava a frase em português;
+- O exemplo de exercício faltava a frase em português;
 
-* As histórias eram um ponto legal para guardar algumas informações sobre a cultura.
+- As histórias são interessantes para guardar informações sobre a cultura do povo kokama.
 
 ![prototype_1_1](../assets/img/prototype/high/prototype_1_1.png)
 
