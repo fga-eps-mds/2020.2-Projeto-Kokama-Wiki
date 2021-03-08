@@ -71,3 +71,58 @@
 ### Geral
 
 ![Geral - Tempo gasto na sprint](../../assets/img/sprints/sprint-3/time-team.png)
+
+## Retrospectiva
+
+### Pontos positivos
+
+- Projeto começando a andar finalmente
+- Andamento foi muito legal nessa semana
+- O Hilmer elogiou o nosso grupo
+- Laís tá de parabéns
+- Mesmo com outras matérias o projeto está progredindo
+- As duplas estão sendo bem produtivas.
+- Divisão em sprints
+- Validação com o prototipo de alta fidelidade em geral foi boa, da pra começar a entrar mais um pouco na parte do codigo
+- O protótipo de alta fidelidade e altíssima qualidade
+- Equipe se mostra comprometida com o trabalho
+- EPS e MDS interagem bem
+- Conseguimos o contato do técnico que ficará responsável por fornecer a infraestrutura do projeto
+- A logo ficou muito boa
+- Andre conseguiu se mudar: e está com internet boa, guardou as caixas, pode ~~jogar~~ ~~minecraft~~ ~~tibia~~ ~~CS~~ trabalhar melhor.
+
+### Pontos a melhorar e sugestões de melhoria
+
+- Atraso reuniao >:( - O de sempre pra melhorar
+- Reuiniões em hórario de almoço entre 12:00 - 13:00, Principalmente com o Hilmer -> Parar de Marcar reuniões meio dia, principalmente se forem com o hilmer e muito demoradas, pois a reunião acaba quase na hora da aula e não temos tempo de almoçar direito.
+- Falta de ligeireza nas reuniões
+- Pareamento em mais de 2 pessoas não pareceu produtivo. Pareamento=par=2
+- Reuniões podiam ser mais curtas, as de sábado
+- Reclamações do meu teclado >:( - Me da um novo
+- Muitas redefinições em vários aspectos (protipo, arquitetura, tem mais algo ...) - melhorar discussao na hora dos pontos
+- mds não está seguindo totalmente o plano de estudo => seguir o plano de estudo
+- Plano de estudo demorando, alguns pontos já eram pra ter terminado
+- Daily precisa ser por call? Não - sim
+- Problemas de conexão- internet ????? ??
+- Talvez as Issues estejam meio grandes? (Elas ficam virando dívida técnica?) => Diminuir issues
+- Parar de expulsar as pessoas da call
+- Certeza do que é para fazer, para que o Hilmer não inutilize
+- Os eventos anonimos nao estao sendo anonimos >:( - para de seguir o amiguinho
+
+### Medidas a serem tomadas
+
+- Procurar manter o foco das reuniões de forma a pautar mais assuntos em menos tempo e resguardar a qualidade da conversa e da geração de resultados;
+- Esclarecer melhor que issues que tenham mais de duas pessoas ocorrem por se tratar de atividades muito difíceis ou grandes. Nesse caso, mesmo que haja mais de duas pessoas, preserva-se o pareamento no contexto do grupo;
+- Pedir a colaboração de todos os membros da equipe durante dúvidas e divergências nas reuniões;
+- Transformar issues de estudo em atividades contínuas, isto é, elencar os tópicos que deverão ser estudados e fazer o acompanhamento dos estudos com os membros da equipe durante as dailys;
+- Colocar MDS para começar a codificar alguns pontos do aplicativo, pois será uma maneira de incentivá-los a estudar as tecnologias e impulsionar o desenvolvimento do produto.
+
+## Avaliação do Scrum Master
+
+No gráfico **cumulative flow**, observa-se que o fluxo de fechamento das issues ocorreu de maneira mais controlada e gradual durante a sprint, com novas issues já disponíveis para serem trabalhadas no domingo. Indo além, observa-se no **burndown** um ótimo resultado da sprint, que completou 82 pontos e ficou somente com dívidas técnicas relacionadas a dojos de tecnologias (transformadas em atividade de ensino contínuo). Já no **velocity**, pode-se perceber que houve um grande salto na produtividade e produção do time durante a *sprint*, fato esse proporcionado pela colaboração, esforço e integração das equipes de MDS e EPS.
+
+No **quadro de conhecimento**, observa-se melhorias em áreas relacionadas ao estudo de linguagens, fator muito importante para os próximos passos da equipe relacionados ao início do desenvolvimento do aplicativo. Nesse sentido, mostra-se importante realizar o monitoramento contínuo de MDS em relação aos estudos das tecnologias do projeto.
+
+No **tempo gasto na sprint** é notório que, relacionado a *sprint* 2, a equipe de EPS manteve maior consistência no tempo investido na disciplina ao longo da semana e MDS manteve o bom ritmo já registrado na *sprint passada*, o que culminou em uma ótima alocação de tempo na *sprint*. Cabe ressaltar que sábado possui um alto número de horas devido à revisão, à retrospectiva e ao planejamento das sprints.
+
+Por fim, como medidas de melhoria, cabe adotar ações em relação aos pontos acima e e aos tópicos elencados em "Medidas a serem tomadas".
