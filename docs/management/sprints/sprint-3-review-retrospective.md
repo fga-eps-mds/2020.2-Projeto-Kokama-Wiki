@@ -35,3 +35,39 @@
 | -------------------------------------------------------------------------------------------------------- | :----: | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Realizar dojo de react native](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/56)     |   8    | Welison Regis e Lieverton Santos | Issue transformada em estudo, visto que a escassez de tempo dificulta realizar o dojo com toda a equipe. Dessa maneira, a issue passa a elencar tóppicos que deverão ser estudados e haverá o acompanhamento desse estudo através da daily com a equipe |
 | [Realizar dojo de backend (django)](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/57) |   8    | Leonardo Medeiros e André Pinto  | Issue transformada em estudo, visto que a escassez de tempo dificulta realizar o dojo com toda a equipe. Dessa maneira, a issue passa a elencar tóppicos que deverão ser estudados e haverá o acompanhamento desse estudo através da daily com a equipe |
+
+## Cumulative Flow
+
+![Cumulative flow](../../assets/img/sprints/sprint-3/cumulative-flow.png)
+
+## Burndown
+
+![Burndown](../../assets/img/sprints/sprint-3/burndown.png)
+
+## Velocity
+
+![Velocity](../../assets/img/sprints/sprint-3/velocity.png)
+
+## Quadro de Conhecimentos
+
+### Antes
+
+![Quadro de conhecimento antes](../../assets/img/sprints/sprint-3/knowledge-board-before.png)
+
+### Depois
+
+![Quadro de conhecimento depois](../../assets/img/sprints/sprint-3/knowledge-board-after.png)
+
+### Depois por assunto
+
+![Quadro de conhecimentos - antes e depois por assunto](../../assets/img/sprints/sprint-3/knowledge-board-topics.png)
+
+## Tempo gasto na sprint
+
+### MDS e EPS
+
+![MDS e EPS - Tempo gasto na sprint](../../assets/img/sprints/sprint-3/time-eps-mds.png)
+
+### Geral
+
+![Geral - Tempo gasto na sprint](../../assets/img/sprints/sprint-3/time-team.png)
