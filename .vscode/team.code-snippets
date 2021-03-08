@@ -1,0 +1,92 @@
+{
+	// HOW TO CONFIGURE SNIPPETS TO MARKDOWN FILES
+	// F1 -> Preferences: Configure Language Specific Settings... -> Markdown
+	// -> em "[markdown]", adicione: "editor.quickSuggestions": true"
+	// 
+	// Place your EPS-2020-2-G3 workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"ana": {
+		"scope": "markdown",
+		"prefix": "ana",
+		"body": [
+			"[Ana Júlia](https://www.github.com/aluzianobriceno)"
+		],
+	},
+	"andre": {
+		"scope": "markdown",
+		"prefix": "andre",
+		"body": [
+			"[André Lucas](https://www.github.com/andrelucax)"
+		],
+	},
+	"fernando": {
+		"scope": "markdown",
+		"prefix": "fernando",
+		"body": [
+			"[Fernando Vargas](https://www.github.com/SFernandoS)"
+		],
+	},
+	"lais": {
+		"scope": "markdown",
+		"prefix": "lais",
+		"body": [
+			"[Lais Portela](https://www.github.com/laispa)"
+		],
+	},
+	"leo": {
+		"scope": "markdown",
+		"prefix": "leo",
+		"body": [
+			"[Leonardo Medeiros](https://www.github.com/leomedeiros1)"
+		],
+	},
+	"lievertom": {
+		"scope": "markdown",
+		"prefix": "lievertom",
+		"body": [
+			"[Lieverton Silva](https://www.github.com/lievertom)"
+		],
+	},
+	"lucas": {
+		"scope": "markdown",
+		"prefix": "lucas",
+		"body": [
+			"[Lucas Rodrigues](https://www.github.com/nickby2)"
+		],
+	},
+	"luis": {
+		"scope": "markdown",
+		"prefix": "luis",
+		"body": [
+			"[Luís Guilherme](https://www.github.com/luisgaboardi)"
+		],
+	},
+	"luiz": {
+		"scope": "markdown",
+		"prefix": "luiz",
+		"body": [
+			"[Luiz Gustavo](https://www.github.com/LightZX)"
+		],
+	},
+	"welison": {
+		"scope": "markdown",
+		"prefix": "welison",
+		"body": [
+			"[Welison Regis](https://www.github.com/WelisonR)"
+		],
+	}
+}
