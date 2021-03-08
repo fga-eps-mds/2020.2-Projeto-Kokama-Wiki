@@ -105,6 +105,77 @@ class ScrumDocuments:
     def generate_planning(self):
         self.f.write(f'# Planejamento da sprint {self.sprint}\n\n')
 
+        self.print_history()
+        self.print_sprint_time()
+        self.print_pairs()
+        self.print_sprint_backlog()
+        self.print_roles()
+
+    def print_history(self):
+        today = datetime.date.today()
+        date = today.strftime("%d/%m/%Y")
+
+        self.f.write('## Histórico de revisão\n\n')
+        self.f.write('| Data | Autor | Modificações | Versão |\n')
+        self.f.write(f'|:---:|---|---|:---:|\n')
+        self.f.write(f'| {date} | {self.author} | Adiciona planejamento da sprint {self.sprint} | 1.0 |\n')
+        self.f.write('\n')
+
+    def print_sprint_time(self):
+        self.f.write('## Tamanho da sprint\n\n')
+        self.f.write('| Início da sprint | Término da Sprint | Duração |\n')
+        self.f.write('|:---:|:---:|:---:|\n')
+        self.f.write(f'| {self.sprint_start} | {self.sprint_end} | {self.sprint_duration} |\n')
+        self.f.write('\n')
+
+    def print_pairs(self):
+        self.f.write('## Pareamentos\n\n')
+        self.f.write('| Paramento | Integrantes |\n')
+        self.f.write('|:---:|---|\n')
+
+        for i, pair in enumerate(self.sprint_pairs):
+            self.f.write(f'| {i+1} | {pair} |\n')
+        self.f.write('\n')
+
+    def print_sprint_backlog(self):
+        self.f.write('## Sprint Backlog\n\n')
+        self.f.write('| Issue | Pontos | Responsáveis |\n')
+        self.f.write('|---|:---:|---|\n')
+
+        for issue in self.issues:
+            issue_text = issue['text']
+            issue_url = issue['url']
+            issue_points = issue['points']
+
+            self.f.write(f'| [{issue_text}]({issue_url}) | {issue_points} | ')
+
+            for i, assign in enumerate(issue['assigns']):
+                name = assign['name']
+                assign = assign['assign']
+
+                if (name == 'Não definido'):
+                    name = 'Todos'
+                    assign = 'fga-eps-mds/2020.2-Projeto-Kokama-Wiki'
+
+                if i == 0:
+                    self.f.write(f'[{name}](https://github.com/{assign})')
+                elif i == len(issue['assigns'])-1:
+                    self.f.write(f' e [{name}](https://github.com/{assign})')
+                else:
+                    self.f.write(f', [{name}](https://github.com/{assign})')
+            self.f.write(' |\n')
+        self.f.write('\n')
+
+    def print_roles(self):
+        self.f.write('## Papéis\n\n')
+        self.f.write('| Papel | Integrante |\n')
+        self.f.write('|:---:|---|\n')
+        self.f.write('| **Scrum Master** | Welison Regis |\n')
+        self.f.write('| **DevOps** | Leonardo Medeiros |\n')
+        self.f.write('| **Arquiteto** | Lieverton Santos |\n')
+        self.f.write('| **Analista de dados** | André Pinto |\n')
+
+
 if __name__ == '__main__':
     sprint = ScrumDocuments()
     sprint.generate_planning()
