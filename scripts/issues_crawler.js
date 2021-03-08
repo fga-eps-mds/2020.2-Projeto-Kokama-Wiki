@@ -103,3 +103,38 @@ class GithubIssues {
         return issue_points;
     }
 }
+
+/*
+    Script to download an object as json from browser
+*/
+class DownloadIssueData {
+    constructor() {
+        this.all_issues = new GithubIssues();
+        this.download(this.all_issues.issues);
+    }
+
+    download(data) {
+        if (!data) {
+            console.error("Console.save: Nenhum dado disponível");
+            return;
+        }
+
+        let filename = "issues.json";
+
+        if (typeof data === "object") {
+            data = JSON.stringify(data, undefined, 4);
+        }
+
+        var blob = new Blob([data], { type: "text/json" }),
+            e = document.createEvent("MouseEvents"),
+            a = document.createElement("a");
+
+        a.download = filename;
+        a.href = window.URL.createObjectURL(blob);
+        a.dataset.downloadurl = ["text/json", a.download, a.href].join(":");
+        e.initMouseEvent("click", true, false, window, 0, 0, 0, 0, 0, false, false, false, false, 0, null);
+        a.dispatchEvent(e);
+    }
+}
+
+new DownloadIssueData();
