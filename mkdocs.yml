@@ -1,19 +1,20 @@
 # Project information
-site_name: "MDS/EPS"
+site_name: "Projeto Kokama"
 site_description: "TODO"
 site_author: "Grupo 03"
-site_url: "https://fga-eps-mds.github.io/EPS-2020-2-G3/"
+site_url: "https://fga-eps-mds.github.io/2020.2-Projeto-Kokama-Wiki/"
 
 # Repository
-repo_name: "MDS/EPS"
-repo_url: "https://github.com/fga-eps-mds/EPS-2020-2-G3/"
+repo_name: "Projeto Kokama"
+repo_url: "https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/"
 
 # Copyright
-copyright: "Copyright &copy; 2021 MDS/EPS"
+copyright: "Copyright &copy; 2021 Projeto Kokama"
 
 # Theme settings
 theme:
-  # logo: 'assets/img/logo/logo_icon.png'
+  logo: assets/img/logo.png
+  favicon: assets/img/logo.png
   font:
     text: "Roboto"
     code: "Roboto Mono"
@@ -21,9 +22,9 @@ theme:
     - navigation.tabs
   language: "pt"
   name: "material"
-  palette:
-    primary: "blue"
-    accent: "purple"
+  palette: 
+    primary: "red"
+    accent: "grey"
 
 # Content Menu
 nav:
@@ -45,8 +46,10 @@ nav:
         - Protótipo de baixa fidelidade: "project/low-prototype.md"
         - Protótipo de média fidelidade: "project/mid-prototype.md"
         - Protótipo de alta fidelidade: "project/high-prototype.md"
+        - Teste de usabilidade: "project/usability-test.md"
       - Rich Picture: "project/rich-picture.md"
       - Documento de arquitetura: "project/architecture-document.md"
+      - Backlog: "project/product-backlog.md"
       - Comunidade:
         - Código de conduta: "project/CODE_OF_CONDUCT.md"
         - Diretrizes de contribuição: "project/CONTRIBUTING.md"
@@ -60,8 +63,14 @@ nav:
       - Sprint 1:
         - Planejamento: "management/sprints/sprint-1-planning.md"
         - Revisão e retrospectiva: "management/sprints/sprint-1-review-retrospective.md"
-    - Reuniões com PO: 
+      - Sprint 2:
+        - Planejamento: "management/sprints/sprint-2-planning.md"
+        - Revisão e retrospectiva: "management/sprints/sprint-2-review-retrospective.md"
+      - Sprint 3:
+        - Planejamento: "management/sprints/sprint-3-planning.md"
+    - Reuniões com PO:
       - Reunião 1: "management/po-meetings/meeting-1.md" 
+      - Reunião 2: "management/po-meetings/meeting-2.md" 
 
 # Style
 extra_css:

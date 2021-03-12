@@ -1,17 +1,17 @@
-<!-- <p align="center">
-  <img src="https://i.imgur.com/5wtqEys.png" alt="Projeto Kokama" width="50%"/>
-</p> -->
+ <p align="center">
+  <img src='docs/assets/img/logo.png' alt="Projeto Kokama" width="30%"/>
+</p> 
 
 <h1 align="center">
   Projeto Kokama
 </h1>
 
 <p align="center">
-  <a href="https://fga-eps-mds.github.io/EPS-2020-2-G3/" target="_blank" alt="Projeto Kokama - Documentação"><img src="https://img.shields.io/badge/Projeto%20Kokama-Docs-black"></a>
-  <a href="https://github.com/fga-eps-mds/EPS-2020-2-G3/pulls" target="_blank" alt="Projeto Kokama - Pull Requests"><img src="https://img.shields.io/github/issues-pr/fga-eps-mds/EPS-2020-2-G3?color=red&label=Pull%20Requests"></a>
+  <a href="https://fga-eps-mds.github.io/2020.2-Projeto-Kokama-Wiki/" target="_blank" alt="Projeto Kokama - Documentação"><img src="https://img.shields.io/badge/Projeto%20Kokama-Docs-black"></a>
+  <a href="https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/pulls" target="_blank" alt="Projeto Kokama - Pull Requests"><img src="https://img.shields.io/github/issues-pr/fga-eps-mds/EPS-2020-2-G3?color=red&label=Pull%20Requests"></a>
 </p>
 
-## <p align="left"><a href="https://fga-eps-mds.github.io/EPS-2020-2-G3/">Visualizar documentação online</a></p>
+## <p align="left"><a href="https://fga-eps-mds.github.io/2020.2-Projeto-Kokama-Wiki/">Visualizar documentação online</a></p>
 
 ## Rode a Wiki com Docker
 
