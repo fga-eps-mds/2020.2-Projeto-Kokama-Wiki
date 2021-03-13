@@ -53,7 +53,7 @@
 
 ### Depois
 
-![Quadro de conhecimento antes](../../assets/img/sprints/sprint-2/knowledge-board-after.png)
+![Quadro de conhecimento depois](../../assets/img/sprints/sprint-2/knowledge-board-after.png)
 
 ### Depois por assunto
 
