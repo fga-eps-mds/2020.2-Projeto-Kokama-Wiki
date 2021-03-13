@@ -48,7 +48,7 @@ class ScrumDocuments:
         print('Digite o número do autor do documento: ', end='')
         self.author = self.get_author()
         self.sprint_pairs = self.get_sprint_pairs()
-        self.f = open('planning.md', 'w+')
+        self.f = open('../docs/management/sprints/sprint-'+str(self.sprint)+'-planning.md', 'w+')
 
     def get_issues(self):
         try:
@@ -125,7 +125,7 @@ class ScrumDocuments:
         self.f.write('## Tamanho da sprint\n\n')
         self.f.write('| Início da sprint | Término da Sprint | Duração |\n')
         self.f.write('|:---:|:---:|:---:|\n')
-        self.f.write(f'| {self.sprint_start} | {self.sprint_end} | {self.sprint_duration} |\n')
+        self.f.write(f'| {self.sprint_start} | {self.sprint_end} | {self.sprint_duration} dias |\n')
         self.f.write('\n')
 
     def print_pairs(self):
