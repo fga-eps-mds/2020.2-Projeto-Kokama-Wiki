@@ -56,6 +56,7 @@ nav:
     - Plano de comunicação: "management/communication-plan.md"
     - Quadro de disponibilidade: "management/availability-board.md"
     - Roadmap de papeis: "management/role-roadmap.md"
+    - EVM: "management/evm.md"
     - Sprints:
       - Sprint 0:
         - Revisão e retrospectiva: "management/sprints/sprint-0.md"
