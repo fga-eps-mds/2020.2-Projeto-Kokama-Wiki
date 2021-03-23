@@ -10,7 +10,8 @@
 | 06/03/2021 | [Lieverton Silva](https://github.com/lievertom) | remove casos de uso e sumário | 0.4    |
 | 06/03/2021 | [Lieverton Silva](https://github.com/lievertom) | adiciona diagramas macro e lógico | 0.5    |
 | 08/03/2021 | [Lieverton Silva](https://github.com/lievertom) | adiciona informações sobre os módulos | 0.6 |
-| 08/03/2021 | [Lieverton Silva](https://github.com/lievertom) | adiciona tabela de metas e restrições de arquitetura | 1.0 |
+| 08/03/2021 | [Lieverton Silva](https://github.com/lievertom) | adiciona tabela de metas e restrições de arquitetura | 0.7 |
+| 23/03/2021 | [Lieverton Silva](https://github.com/lievertom) | adiciona diagramas de pacote | 1.0 |
 
 ## 1. Introdução
 
@@ -20,12 +21,15 @@ Este documento tem como objetivo apresentar uma visão geral e abrangente da arq
 
 ### 1.2 Escopo
 
-O Projeto Kokama é um aplicativo para as plataformas Android e IOS projetado para ser um tradutor e auxiliador no ensino da língua e cultura Kokama. Os desenvolvedores são responsáveis em seguir este documento visando garantir o padrão proposto para a arquitetura.
+O Projeto Kokama é um aplicativo para as plataformas Android e iOS projetado para ser um tradutor e auxiliador no ensino da língua e cultura Kokama. Os desenvolvedores são responsáveis em seguir este documento visando garantir o padrão proposto para a arquitetura.
 
 ### 1.3 Definições, acrônimos e abreviações
 
 - API: Interface de Programação de Aplicações;
 - CDN: Rede de fornecimento, entrega e distribuição de conteúdo;
+- iOS: Sistema operacional móvel da Apple Inc;
+- Android: Sistema operacional baseado no núcleo Linux.
+- Storage: Unidade de armazenamento do aparelho móvel.
 
 ### 1.4 Referências
 
@@ -50,9 +54,9 @@ A solução arquitetural implementada para aplicação "Projeto Kokama" pode ser
 
 ### 2.2 Front-end
 
-Módulo de interface que permite a intenração do usuário com a aplicação.
+Módulo de interface que permite a interação do usuário com a aplicação.
 
-### 2.3 Crowler
+### 2.3 Crawler
 
 Módulo responsável por normalizar e extrair as informções necessárias para gerar a base de dados inicial.
 
@@ -64,14 +68,32 @@ Módulo responsável por disponibilizar as gravações dos áudios referentes à
 
 | Requisito | Solução |
 |:---------:|:-------:|
-| **Linguagem** | O front-end será elaborado em JavaScript e o back-end em Python. |
+| **Linguagem** | O front-end será elaborado em TypeScript e o back-end em Python. |
 | **Plataforma** | Serão usadas as plataformas React-native para o front-end e Django para o back-end. |
-| **Segurança** | É necessário resguardar que haja segurança tanto ao perfil de usuário quanto ao perfil de adinistrador na aplicação, não possibilitando a criação de um perfil inválido. Além disso, os dados precisam interagir de uma forma anônima e, para isso, deve-se fazer a utilização de token nas requisições. |
-| **Persistência** | Os dados deverão ser persistidos em banco de dados através do banco relacional PostgreSQL. A escolha por um banco relacional deriva de questões como escalabilidade, confiança (atomicididade, consistência, isolamento e durabilidade) e complexidade lógica da aplicação, além disso, leva-se em conta a facilidade de deploy contínuo em serviços de hospedagem web, diferente dos bancos não relacionais. Em relação ao módulo de tradução, também é necessário que os dados sejam guardados no *storage* do aparelho *mobile*. |
+| **Segurança** | É necessário resguardar que haja segurança tanto ao perfil de usuário quanto ao perfil de admistrador na aplicação, não possibilitando a criação de um perfil inválido. Além disso, os dados precisam interagir de uma forma anônima e, para isso, deve-se fazer a utilização de token nas requisições. |
+| **Persistência** | Os dados deverão ser persistidos em banco de dados através do banco relacional PostgreSQL. A escolha por um banco relacional deriva de questões como escalabilidade, confiança (atomicididade, consistência, isolamento e durabilidade) e complexidade lógica da aplicação, além disso, leva-se em conta a facilidade de deploy contínuo em serviços de hospedagem web, diferente dos bancos não relacionais. Em relação ao módulo de tradução, também é necessário que os dados sejam guardados no *storage* do aparelho móvel. |
 | **Arquitetura** | Devido ao contexto do problema, isto é, a necessidade que ocorra integração contínua, será desenvolvida uma aplicação baseada em uma arquitetura de microserviços. |
 
 ## 4. Visão de lógica
 
-### 4.1 Diagrama lógico
+### 4.1 Diagrama de pacotes
+
+O diagrama de pacotes mostra a composição da estrutura de pastas do projeto.
+
+#### 4.1.1 APIs
+
+As APIs que formam o back-end compartilham da mesma estrutura de pastas.
+
+![Diagrama de pacotes das APIs](../assets/img/architecture/api_package_diagram.png)
+
+
+#### 4.1.2 Front-end
+
+![Diagrama de pacotes do Front-end](../assets/img/architecture/front_end_package_diagram.png)
+
+
+### 4.2 Diagrama lógico
+
+O diagrama lógico mostra a visão do armazenamento dos dados.
 
 ![Diagrama Lógico](../assets/img/architecture/logic_diagram.png)
