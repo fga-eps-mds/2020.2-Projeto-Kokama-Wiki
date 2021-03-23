@@ -69,3 +69,52 @@
 
 ![Geral - Tempo gasto na sprint](../../assets/img/sprints/sprint-4/time-team.png)
 
+## Retrospectiva
+
+Os textos abaixo são opiniões e visões relatadas anonimamente por parte da equipe e, portanto, utiliza um formato mais livre na escrita com a finalidade de captar todos os elogios, ideias, sugestões e reclamações da *sprint*.
+
+### Pontos positivos
+
+1. Reuniões estão ficando pontuais
+2. Estamos conseguindo fazer as tarefas mesmo apanhando muito no começo
+3. EPS tem prestado suporte para os integrantes de MDS começarem a desenvolverem e evoluirem sozinhos
+4. Professora Altaci aparentemente está gostando do nosso progresso
+5. EPS se ajudando e fechando tudo muito rápido, foi mto produtivo
+6. MDS mesmo com dificuldade tá tentando se ajudar
+7. Trabalho da Ana e do S ficou bom, parabens! <3
+8. Não tivemos reuinião em horário de almoço
+9. MDS está se ajudando
+10. Estrelinha da semana: Vargas , S ? >S<
+11. Não teremos problemas com o servidor! (esperançosamente)
+12. EPS se reuniu com o cara da infraestrutura.
+13. MDS mesmo apanhando bastante não parece estar desanimando, isso aí!
+
+### Pontos a melhorar e sugestões de melhoria
+
+1. MDS mais de uma vez fez perguntas no grupo que seriam encontradas fácilmente no google. Sol: pesquisar mais antes de pedir ajuda
+2. O Desenvolvimento das issues e as chamadas pareadas estão demorando muito (Definir horário de início e fim, ao invés de só ficar até resolver. Isso ajuda na produtividade/rendimento)
+3. MDS muito dependente, usem o stackoverflow e google a seu favor. nao pedir ajuda a cada erro, tentar arrumar antes.
+4. mds com muita dificuldade em configurações.
+5. MDS ta com dificuldade de pegar as tecnologias novas. Dar mais atenção aos tutorial e entender o que ta fazendo invés de só copiar e falar "ta ok"
+6. Faltas nas dailys
+7. Dificuldade no trabalho principalmente por causa de coisas a baixar que nao baixam
+8. Configuração de ambiente dando errado em alguns PCs de MDS (Talvez prestar mais atenção nos pré-requisitos e especialmente na hora de instalar qualquer coisa a mais, ao invés de sair copiando e colando o código do stackOverflow)
+9. Internet dificultando pareameto
+10. Calma ao comunicar e resolver problemas
+
+### Medidas a serem tomadas
+
+1. Aconselhar MDS como realizar buscas efetivas na internet, além de mostrar o caminho ao invés do resultado quando as dúvidas surgirem;
+2. Revisar os ambientes do docker para averiguar se é o caso de melhorar ou arrumar alguma configuração;
+3. Acompanhamento contínuo nas dailys através de presença;
+4. Melhoria de averiguação de qualidade de código através do SonarCloud.
+
+## Avaliação do Scrum Master
+
+Observa-se no **burndown** um ótimo desempenho na sprint, que completou 70 pontos e ficou apenas com duas dívidas técnicas, uma história de usuário e uma configuração de folha de estilo nos repositórios. Já no **velocity**, pode-se notar que o desempenho representa aproximadamente a média das duas sprints anteriores, o que mostra um maior equilíbrio nas entregas da sprint.
+
+Por se tratar da primeira *sprint* de desenvolvimento, pode-se notar no **quadro de conhecimento** que os conhecimentos da equipe de MDS sobre tecnologias e metodologias em desenvolvimento de *software* cresceram bastante de modo a indicar que o início da codificação tem ajudado na assimilação daquilo que os integrantes já vinham estudando.
+
+No **tempo gasto na sprint** pode-se notar que, embora a *sprint* tenha ocorrido bem, há um excesso de horas trabalhadas na sexta-feira para a equipe de MDS e no domingo para a equipe de EPS. Desse modo, deve-se procurar maior homogeneidade de distribuição de horas ao longo da semana.
+
+Por fim, como medidas de melhoria, cabe adotar ações em relação aos pontos acima e e aos tópicos elencados em "Medidas a serem tomadas".
