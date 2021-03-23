@@ -37,3 +37,35 @@
 | [[US02] Navegação entre menus da aplicação](https://github.com//fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/83) |   8    | [Lucas Rodrigues](https://github.com/nickby2) e [Lais Portela](https://github.com/laispa) | Dupla teve dificuldades no início do desenvolvimento com *react native*, não conseguindo atingir os critérios de aceitação da issue no prazo estimado. Issue será desenvolvida futuramente, momento em que os demais módulos do aplicativo começarem a funcionar. |
 | [Adicionar configurações de lint locais](https://github.com//fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/77)    |   8    | [Leonardo Medeiros](https://github.com/leomedeiros1)                                      | Issue não terminada no prazo estimado. |
 
+## Burndown
+
+![Burndown](../../assets/img/sprints/sprint-4/burndown.png)
+
+## Velocity
+
+![Velocity](../../assets/img/sprints/sprint-4/velocity.png)
+
+## Quadro de Conhecimentos
+
+### Antes
+
+![Quadro de conhecimento antes](../../assets/img/sprints/sprint-4/knowledge-board-before.png)
+
+### Depois
+
+![Quadro de conhecimento depois](../../assets/img/sprints/sprint-4/knowledge-board-after.png)
+
+### Antes e depois por assunto
+
+![Quadro de conhecimentos - antes e depois por assunto](../../assets/img/sprints/sprint-4/knowledge-board-topics-compare.png)
+
+## Tempo gasto na sprint
+
+### MDS e EPS
+
+![MDS e EPS - Tempo gasto na sprint](../../assets/img/sprints/sprint-4/time-eps-mds.png)
+
+### Geral
+
+![Geral - Tempo gasto na sprint](../../assets/img/sprints/sprint-4/time-team.png)
+
