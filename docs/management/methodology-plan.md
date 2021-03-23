@@ -15,3 +15,31 @@ O presente documento visa descrever o plano metodológico utilizado no desenvolv
 Na situação do projeto, os papéis são definidos de acordo com a metodologia _Scrum_ e com base nos requisitos da disciplina, sendo que cada membro tem responsabilidades e compromissos conforme definido no documento de **[Roadmap de papéis](role-roadmap.md)**.
 
 Na análise de risco do projeto, definiu-se que a priori não ocorrerão rotações de papéis durante o curso do semestre de modo que fique livre ao time essa possibilidade futuramente, caso a maturidade da equipe, o custo, o escopo e o tempo proporcione essa experiência.
+
+## Metodologias
+
+### Scrum
+
+No Projeto Kokama, adota-se elementos metodológicos do scrum com encontros definidos no **[Plano de Comunicaçao](communication-plan.md)**, que utilizam como base o **[Quadro de Disponibilidade](availability-board.md)** para decisão dos horários. Utiliza-se principalmente os seguintes artefatos do Scrum [^2]:
+
+- **_Sprint_**: período de tempo durante o qual é produzida uma versão incremental do produto. No projeto, uma _sprint_ possui 7 dias;
+- **_Daily_**: acompanhamento diário do desenvolvimento da _sprint_ de modo a identificar o que foi feito, o que será feito e as dificuldades a fim de mitigir e prevenir riscos. No projeto, a _daily_ ocorre durante um período de 15 minutos;
+- **Revisão de _sprint_**: reunião para validar o incremento do produto produzido na _sprint_ atual e adaptar o backlog do produto (se necessário). No projeto, a revisão dura até 1 hora e a documentação segue o **[modelo de revisão definido nas sprints](sprints/sprint-4-review-retrospective.md)**. Ademais, realiza-se uma reunião de revisão mais curta com a dona do produto para validação do que foi desenvolvido na _sprint_;
+- **Retrospectiva da _Sprint_**: momento da equipe inspecionar a si própria de modo a criar um plano para melhorias a serem aplicadas na próxima _sprint_. No projeto, a retrospectiva dura até 1 hora e a documentação segue o **[modelo de retrospectiva definido nas sprints](sprints/sprint-4-review-retrospective.md)**. Ademais, levanta-se em reunião mais curta com a dona do produto quais os pontos positivos e os pontos de melhoria dos entregáveis da _sprint_;
+- **Planejamento da _Sprint_**: com a colaboração de todos os papéis, define-se nessa etapa o trabalho a ser realizado na nova _sprint_. No projeto, o processo de planejamento dura até 2 horas e leva em consideração artefatos, objetivos e priorizações trazidos nas **[reuniões com a dona do produto](po-meetings/meeting-1.md)**. Define-se histórias de usuários e tarefas que serão desenvolvidas nas novas _sprints_ levando em consideração a aprendizagem das últimas semanas. O **[documento de planejamento da sprint](sprints/sprint-4-planning.md)** é criado automaticamente através de **_scripts_** desenvolvido pela equipe.
+    - **_Planning Poker_**: define-se no planejamento da _sprint_ a estimativa de pontos (fibonnaci) dos artefatos que serão desenvolvidos na _sprint_ em relação a medida de esforço, complexidade e risco.
+
+### Kanban
+
+Para monitorar o trabalho da equipe, utiliza-se a metodologia Kanban através da ferramenta [ZenHub](https://www.zenhub.com/) integrada às _issues_ do GitHub [^4]. Nesse sentido, definiu-se um fluxo de trabalho dividido em cinco etapas: _product backlog_, _sprint backlog_, _in progress_, _review/QA_ e _closed_.
+
+- Ferramenta _ZenHub_ [^3]: auxilia na geração de relatórios de métricas do desenvolvimento das _sprints_, além de realizar a integração entre os diferentes repositórios do projeto dentro da organização. Pode-se ver o fluxo de trabalho na imagem abaixo.
+- Categorização (labels): os artefatos presentes no fluxo do Kanban são categorizados com os rótulos "0-Papel", "1-Tecnologias", "2-Treinamento e Encontros" e "3-US/TS".
+
+![Pipeline Kanban](../assets/img/pipeline/kanban-pipeline.png)
+
+### Extremming Programming (codificação)
+
+No projeto, adotou-se metodologias do Extremming Programming (XP) no processo de desenvolvimento de código, como pode-se citar: programação em pares, refatorações (se aplicável), integração contínua e _feedback_ constante, tanto da parte interessada do projeto como da equipe de desenvolvimento e gerência[^2].
+
+No projeto, adota-se os pares de programação conforme expertise dos membros relativo a tecnologia, metodologia, entregas, entre outros fatores, de modo a homogeneizar o conhecimento e melhorar as entregas no contexto da equipe.
