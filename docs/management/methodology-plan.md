@@ -43,3 +43,29 @@ Para monitorar o trabalho da equipe, utiliza-se a metodologia Kanban através da
 No projeto, adotou-se metodologias do Extremming Programming (XP) no processo de desenvolvimento de código, como pode-se citar: programação em pares, refatorações (se aplicável), integração contínua e _feedback_ constante, tanto da parte interessada do projeto como da equipe de desenvolvimento e gerência[^2].
 
 No projeto, adota-se os pares de programação conforme expertise dos membros relativo a tecnologia, metodologia, entregas, entre outros fatores, de modo a homogeneizar o conhecimento e melhorar as entregas no contexto da equipe.
+
+## Métricas de gerenciamento
+
+O projeto utiliza como métricas de gerenciamento os seguintes recursos:
+
+- **_Burndown_**: gráfico que mostra como o projeto está andando ao longo de um périodo de tempo de modo a auxilar no planejamento das entregas das _sprints_.
+- **_Velocity_**: gráfico elaborado com base na pontuação das histórias finalizadas em um determinado período de tempo, no caso do projeto as _sprints_ semanais. A acurária do velocity da equipe evolui com o tempo e, após estabilizado, é uma ótima métrica para o planejamento das atividades das _sprints_.
+- **_Cumulative flow_**: gráfico que indica como tem se dado o fluxo de entrega de atividades da equipe ao longo do tempo, conforme marcos (divisões) definidos no Kanban. O _cumulative flow_ tem por objetivo realizar o acompanhamento e melhoria no processo de entrega contínua por parte da equipe, além de ajudar no acompanhamento da quantidade de trabalho presente em cada etapa do Kanban.
+- **_Quadro de Conhecimentos_**: representação visual do acompanhamento da evolução da aprendizagem em relação a tecnologias e metodologias adotadas pelo projeto. Tem como objetivo manter o rastreamento sobre os pontos de falhas na aprendizagem dos integrantes da equipe.
+- **_Tempo gasto por sprint_**: representação visual do tempo gasto por _sprint_ por parte da equipe de Métodos de Desenvolvimento de Software e Engenharia de Produto de Software. Além de estar relacionada ao custo do projeto, essa métrica visa acompanhar e melhorar a organização e a eficiência do tempo gasto nas atividades por parte dos membros da equipe.
+
+Pode-se verificar um exemplo de aplicação das métricas nas **[sprints](sprints/sprint-4-review-retrospective.md)**.
+
+## Comunicação
+
+A comunicação da equipe ocorre conforme definido no **[Plano de Comunicaçao](communication-plan.md)**, ademais, o grupo realiza reuniões conforme definido no texto acima, além de priorizações e validações de protótipo, produto e projeto com a dona do produto e as partes interessadas periodicamente.
+
+## Referências
+
+[^1]: BECK, Kent et al. Manifesto para Desenvolvimento Ágil de Software. 2001. Disponível em: https://agilemanifesto.org/iso/ptbr/manifesto.html. Acesso em: 23 mar. 2021.
+
+[^2]: SCRUM e XP. 2013. Disponível em: https://www.desenvolvimentoagil.com.br/scrum/. Acesso em: 22 mar. 2021.
+
+[^3]: RACASAN, Mariana. GitHub for Project Management - How to Organize and Track Your Agile Processes. Disponível em: https://blog.zenhub.com/how-to-use-github-agile-project-management/. Acesso em: 22 mar. 2021.
+
+[^4]: FIRMINO, Júlia. O que é kanban e como ele pode ajudar na organização do trabalho. Disponível em: https://blog.runrun.it/o-que-e-kanban/. Acesso em: 23 mar. 2021.

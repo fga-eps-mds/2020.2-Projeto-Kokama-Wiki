@@ -53,8 +53,10 @@ nav:
         - Código de conduta: "project/CODE_OF_CONDUCT.md"
         - Diretrizes de contribuição: "project/CONTRIBUTING.md"
   - Gerência:
-    - Plano de comunicação: "management/communication-plan.md"
-    - Quadro de disponibilidade: "management/availability-board.md"
+    - Plano metodológico:
+      - Plano metodológico: "management/methodology-plan.md"
+      - Plano de comunicação: "management/communication-plan.md"
+      - Quadro de disponibilidade: "management/availability-board.md"
     - Roadmap:
       - Roadmap de papeis: "management/role-roadmap.md"
       - Roadmap do produto: "management/product-roadmap.md"
