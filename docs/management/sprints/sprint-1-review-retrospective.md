@@ -69,17 +69,16 @@
 
 ### Pontos de Melhoria
 
-1. Hilmer dificultou a escolha do tema
+1. Dificuldade de definir um tema com o professor
 2. Conversa com Hilmer/Altaci pode ser feita de forma melhor?
 3. Mais trabalho em equipe
 4. Alguns membros de mds não estão se mostrando tão animados/proativos como outros
-5. Mais proatividade
-6. Mais comprometimento
-7. Não ter reuniões em horário de almoço
-8. Melhor noção de que já estamos atrasados e o projeto é longo
-9. Melhorar nos aprendizados de tecnologia e da teoria necessária para realizar o projeto
-10. Começar a definir missões/metas individuais/dupla
-11. MDS não tá ligando a câmera :(
+5. Mais iniciativa e compromentimento para resolver problemas
+6. Não ter reuniões em horário de almoço
+7. Melhor noção de que já estamos atrasados e o projeto é longo
+8. Melhorar nos aprendizados de tecnologia e da teoria necessária para realizar o projeto
+9. Começar a definir missões/metas individuais/dupla
+10. MDS não tá ligando a câmera :(
 
 ### Medidas a serem tomadas
 

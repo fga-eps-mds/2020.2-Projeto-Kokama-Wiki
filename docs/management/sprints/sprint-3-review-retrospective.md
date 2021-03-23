@@ -93,18 +93,15 @@
 
 ### Pontos a melhorar e sugestões de melhoria
 
-- Atraso reuniao >:( - O de sempre pra melhorar
-- Reuiniões em hórario de almoço entre 12:00 - 13:00, Principalmente com o Hilmer -> Parar de Marcar reuniões meio dia, principalmente se forem com o hilmer e muito demoradas, pois a reunião acaba quase na hora da aula e não temos tempo de almoçar direito.
-- Falta de ligeireza nas reuniões
+- Reuiniões em hórario de almoço entre 12:00 - 13:00 com o professor -> Parar de Marcar reuniões meio dia pois são muito demoradas, pois a reunião acaba quase na hora da aula e não temos tempo de almoçar direito.
 - Pareamento em mais de 2 pessoas não pareceu produtivo. Pareamento=par=2
 - Reuniões podiam ser mais curtas, as de sábado
 - Reclamações do meu teclado >:( - Me da um novo
-- Muitas redefinições em vários aspectos (protipo, arquitetura, tem mais algo ...) - melhorar discussao na hora dos pontos
+- Redefinições em alguns aspectos (protipo, arquitetura, tem mais algo ...) - melhorar discussao na hora dos pontos
 - mds não está seguindo totalmente o plano de estudo => seguir o plano de estudo
 - Plano de estudo demorando, alguns pontos já eram pra ter terminado
 - Daily precisa ser por call? Não - sim
 - Problemas de conexão- internet ????? ??
-- Talvez as Issues estejam meio grandes? (Elas ficam virando dívida técnica?) => Diminuir issues
 - Parar de expulsar as pessoas da call
 - Certeza do que é para fazer, para que o Hilmer não inutilize
 - Os eventos anonimos nao estao sendo anonimos >:( - para de seguir o amiguinho
