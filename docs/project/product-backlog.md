@@ -4,9 +4,9 @@
 
 | Data       | Autor                                        | Modificações                      | Versão |
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
-| 02/03/2021 | [Luis Lins](https://github.com/luisgaboardi) e [Laís Portela](https://github.com/laispa) | Criado template e preenchido documento | 1.0    |
-| 02/03/2021 | [Luis Lins](https://github.com/luisgaboardi) e [Laís Portela](https://github.com/laispa) | Adicionado documento na Wiki | 1.0    |
-| 02/03/2021 | [Luis Lins](https://github.com/luisgaboardi) e [Laís Portela](https://github.com/laispa) | Consertado visualização da imagem no documento | 1.0    |
+| 02/03/2021 | [Luis Lins](https://github.com/luisgaboardi) e [Laís Portela](https://github.com/laispa) | Criado template e preenchido documento | 0.1    |
+| 02/03/2021 | [Luis Lins](https://github.com/luisgaboardi) e [Laís Portela](https://github.com/laispa) | Adicionado documento na Wiki | 0.2    |
+| 02/03/2021 | [Luis Lins](https://github.com/luisgaboardi) e [Laís Portela](https://github.com/laispa) | Arruma visualização da imagem no documento | 1.0    |
 
 ## Sumário
 
