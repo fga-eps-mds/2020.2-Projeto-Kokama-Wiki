@@ -2,7 +2,7 @@
 
 <!-- Descrição coesa e concisa sobre o contéudo do pull request. -->
 
-<!-- **Resolve a issue [#00]().** -->
+<!-- **Resolve [#00]().** -->
 
 ## Tarefas realizadas
 
