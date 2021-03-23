@@ -24,7 +24,7 @@ Uma descrição clara e concisa sobre o que era esperado que acontecesse.
 Se aplicado, adicionar imagens que ajudem a explicar o problema.
 
 **Ambiente**
-<-- adicionar versão quando possível, colocar somente os que se aplicam no caso -->
+<!-- adicionar versão quando possível, colocar somente os que se aplicam no caso -->
 - SO: 
 - Navegador: 
 - Docker:
