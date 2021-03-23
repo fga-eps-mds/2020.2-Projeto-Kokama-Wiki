@@ -40,7 +40,6 @@ nav:
         - Revisão de funcionalidades: "project/lean-inception/functionalities-review.md"
         - Sequenciador: "project/lean-inception/sequencer.md"
         - Canvas MVP: "project/lean-inception/canvas-mvp.md"
-      - Documento de visão: "project/vision-document.md"
       - Design:
         - Identidade visual: "project/visual-identity.md"
         - Protótipo de baixa fidelidade: "project/low-prototype.md"
@@ -53,6 +52,8 @@ nav:
       - Comunidade:
         - Código de conduta: "project/CODE_OF_CONDUCT.md"
         - Diretrizes de contribuição: "project/CONTRIBUTING.md"
+      - Outros:
+        - Documento de visão: "project/vision-document.md"
   - Gerência:
     - Plano metodológico:
       - Plano metodológico: "management/methodology-plan.md"
