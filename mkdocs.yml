@@ -48,6 +48,7 @@ nav:
         - Protótipo de alta fidelidade: "project/high-prototype.md"
         - Teste de usabilidade: "project/usability-test.md"
       - Rich Picture: "project/rich-picture.md"
+      - Documento de arquitetura: "project/architecture-document.md"
       - Backlog: "project/product-backlog.md"
       - Comunidade:
         - Código de conduta: "project/CODE_OF_CONDUCT.md"
