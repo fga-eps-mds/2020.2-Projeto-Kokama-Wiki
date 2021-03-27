@@ -85,7 +85,8 @@ nav:
     - Reuniões com PO:
       - Reunião 1: "management/po-meetings/meeting-1.md" 
       - Reunião 2: "management/po-meetings/meeting-2.md" 
-
+  - Releases:
+    - Release 1: "releases/release-1.md"
 # Style
 extra_css:
   - assets/css/extra.css
