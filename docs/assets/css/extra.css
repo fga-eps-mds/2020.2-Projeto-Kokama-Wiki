@@ -11,3 +11,11 @@
   height: 60px;
   opacity : 1;
 }
+
+.release-video {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 20rem;
+  border: 0;
+}
