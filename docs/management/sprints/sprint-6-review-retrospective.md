@@ -86,3 +86,64 @@
 |       Luís       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |       Luiz       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |     Welison      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+
+## Retrospectiva
+
+Os textos abaixo são opiniões e visões relatadas anonimamente por parte da equipe e, portanto, utiliza um formato mais livre na escrita com a finalidade de captar todos os elogios, ideias, sugestões e reclamações da _sprint_.
+
+### Pontos positivos
+
+1. Parabens pela entrega da R1, conseguimos evoluir bastante
+2. Lais e Z tiveram um evolução legal
+3. André o mago é implacavél, bruxaria de software <3
+4. Hilmer parece satisfeito com o nosso desenvolvimento
+5. Programa adote seu MDS deu bom pra release 1 e aprendemos bastante com os brabos de EPS nesse meio tempo
+6. Deploy deu certo
+7. Ana teve uma grande evolução durante a semana
+8. MDS está evoluindo
+9. Front-End tá ficando topzera
+10. Deploy no Heroku, parabens leleleleleleleleleleo
+11. Evolução muito expressiva no front-end
+12. O grupo em geral se esforçou bastante nessa R1, muitas horas trabalhadas, parabens a todos! A meta agora é "drobar" a meta
+13. S e Vargas muito esforçados, dupla topíssima
+14. As reuniões estão sendo mais pontuais
+15. Tivemos uma boa conversa com o Hilmer
+16. o SM e o PO estão de parabens
+17. Resolução de dívidas técnicas
+18. Vídeo ficou muito bom
+19. Backend tá ficando bom
+20. Começamos a ter um app quase apresentavel, falta pouco pro MVP
+21. EPS mandou um DALE essa semana, top!
+22. Todo mundo pareou com todo mundo, deu bom
+23. Walle ta de parabens, depois me ensina o jutsu pra dobrar as horas do dia
+24. Tomtom ta de parabens, GOD d+
+
+### Pontos a melhorar e sugestões de melhoria
+
+1. MDS ficou mais independente, mas ainda precisa melhorar! Alcançamos a metade da meta, agora bora dobrar
+2. Correria essa semana, mas inevitável, é a vida
+3. Apresentação em video é igual andar de bicicleta, nunca aprendi. Foram muitas horas tentando gravar pra sair algo mais ou menos :( @Hilmer manda apresentar presencial
+4. .env foi implementado de ultima hora, falta mostrar mais ou menos pra rapaziada o porque (dados sensiveis etc).
+5. Outras matérias estão sendo deixadas por falta de tempo
+6. Vozes muito baixas e muito altas na gravação, dar uma olhada após a gravação e checar o volume da própria voz e mudar a entonação ou a altura
+7. Ainda falta um pouco de independência em MDS, google ajuda
+8. Testes? Medo do Hilmer reclamar
+
+### Medidas a serem tomadas
+
+1. No futuro vídeo da release 2, verificar melhor a qualidade do conteúdo, do vídeo e do aúdio antes de publicar o resultado. Se necessário, trabalhar mais na edição de aúdio e de vídeo;
+2. Com o avanço na parte de desenvolvimento, é importante nesse momento configurar o ambiente para começar a planejar os testes de software;
+3. Diminuir o fluxo de trabalho da próxima sprint;
+4. Criação de CI/CD para o ambiente de homologação do front-end para facilitar o acesso à aplicação.
+
+## Avaliação do Scrum Master
+
+A _sprint_ 6 ocorreu durante o andamento da _release 1_ do projeto. Através da análise das métricas, pode-se perceber que a equipe alcançou uma produtividade excepcional ao longo da semana. Além disso, a adoção do programa "Adote o seu EPS" culminou em ótimos resultados para a _sprint_, conforme apresentado acima. Portanto, pode-se notar as seguintes questões:
+
+- **Cumulative flow**: pode-se observar que o fluxo de tarefas em cada etapa do _pipeline_ variou bastante ao longo da semana com revisões de _pull requests_ praticamente instantâneas, chegando ao final da sprint com todos os incrementos revisados e integrados ao produto;
+- **Burndown**: observa-se um fluxo contínuo de trabalho ao longo da semana com grandes entregas na data da release 1 do projeto (terça-feira) e no final da _sprint_ (sábado). A equipe conseguiu um excelente resultado e deixou apenas uma história técnica como dívida da _sprint_;
+- **Velocity**: contata-se que a equipe melhorou muito o desempenho em relação a _sprint_ anterior, foi possível entregar 32 pontos a mais em relação a _sprint 5_;
+- **Quadro de conhecimentos**: nota-se um salto notável em relação à aprendizagem dos papeis desempenhados por EPS, provavelmente impulsionado pelo maior entrosamento do time em relação a todos os artefatos desenvolvidos e entregues na _release 1_;
+- **Tempo gasto**: é possível notar uma semana anormal e atípica, com grandes picos antes das entregas da release. Nesse sentido, nas próximas semanas e nas próximas sprints, deve-se procurar dosar melhor a distribuição de tempo de desenvolvimento do projeto por parte da equipe.
+
+Nesse sentido, deve-se levar em consideração os comentários pontuados nesse tópico e aqueles citados no tópico "medidas a serem tomadas" para manter um bom desempenho na próxima _sprint_.
