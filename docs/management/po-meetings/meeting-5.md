@@ -32,16 +32,16 @@ Durante a apresentação dos artefatos, alguns pontos importantes foram levantad
 
 ### Tela de Sobre
 
-- A PO relatou a importancia de uma tela com informações sobre os contribuidores do projeto Kokama.
+- A PO relatou a importância de uma tela com informações sobre os contribuidores do projeto Kokama.
 
 ### Histórico
 
 - Foi apresentada uma primeira versão do histórico.
-- Foram alinhadas as idéias sobre a apresentação do histórico.
+- Foram alinhadas as ideias sobre a apresentação do histórico de palavras pesquisadas.
 
 ### Planilha
 
-- Foi apresentada uma nova planilha para o preenchimmento dos dados.
+- Foi apresentada uma nova planilha para o preenchimento das informações das traduções.
 
 ### Priorização das histórias
 
