@@ -35,3 +35,54 @@
 | Tarefa                                                                                                                                                   | Pontos | Responsáveis                                                                                                                         | Justificativa                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
 | [[TS03] Melhorar usabilidade das paginas de cadastro, edição e lista de tradução](https://github.com//fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/104) |   13   | [Lais Portela](https://github.com/laispa), [Luiz Gustavo](https://github.com/LightZX) e [André Lucas](https://github.com/andrelucax) | Equipe não conseguiu realizar todos os ajustes propostos na história técnica |
+
+## Cumulative Flow
+
+![Cumulative flow](../../assets/img/sprints/sprint-6/cumulative-flow.png)
+
+## Burndown
+
+![Burndown](../../assets/img/sprints/sprint-6/burndown.png)
+
+## Velocity
+
+![Velocity](../../assets/img/sprints/sprint-6/velocity.png)
+
+## Quadro de Conhecimentos
+
+### Antes
+
+![Quadro de conhecimento antes](../../assets/img/sprints/sprint-6/knowledge-board-before.png)
+
+### Depois
+
+![Quadro de conhecimento depois](../../assets/img/sprints/sprint-6/knowledge-board-after.png)
+
+### Antes e depois por assunto
+
+![Quadro de conhecimentos - antes e depois por assunto](../../assets/img/sprints/sprint-6/knowledge-board-topics-compare.png)
+
+## Tempo gasto na sprint
+
+### MDS e EPS
+
+![MDS e EPS - Tempo gasto na sprint](../../assets/img/sprints/sprint-6/time-eps-mds.png)
+
+### Geral
+
+![Geral - Tempo gasto na sprint](../../assets/img/sprints/sprint-6/time-team.png)
+
+## Presença em daily
+
+| Integrante / Dia |      Segunda       |       Terça        |       Quarta       |       Quinta       |       Sexta        |       Sábado       |
+| :--------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
+|       Ana        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|      André       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|     Fernando     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|    Lieverton     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|       Lais       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|     Leonardo     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|      Lucas       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|       Luís       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|       Luiz       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|     Welison      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
