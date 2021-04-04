@@ -84,10 +84,14 @@ nav:
       - Sprint 6:
         - Planejamento: "management/sprints/sprint-6-planning.md"
         - Revisão e retrospectiva: "management/sprints/sprint-6-review-retrospective.md"
+      - Sprint 7:
+        - Planejamento: "management/sprints/sprint-7-planning.md"
     - Reuniões com PO:
-      - Reunião 1: "management/po-meetings/meeting-1.md" 
-      - Reunião 2: "management/po-meetings/meeting-2.md" 
-      - Reunião 3: "management/po-meetings/meeting-3.md" 
+      - Reunião 1: "management/po-meetings/meeting-1.md"
+      - Reunião 2: "management/po-meetings/meeting-2.md"
+      - Reunião 3: "management/po-meetings/meeting-3.md"
+      - Reunião 4: "management/po-meetings/meeting-4.md"
+      - Reunião 5: "management/po-meetings/meeting-5.md"
   - Releases:
     - Release 1: "releases/release-1.md"
 # Style
