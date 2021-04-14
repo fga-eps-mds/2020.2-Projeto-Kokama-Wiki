@@ -37,3 +37,53 @@
 
 No final dessa sprint, decidiu-se fragmentar alguns detalhes da TS03, que se mostrou complexa o necessário para tal decisão.
 
+## Cumulative Flow
+
+![Cumulative flow](../../assets/img/sprints/sprint-7/cumulative-flow.png)
+
+## Burndown
+
+![Burndown](../../assets/img/sprints/sprint-7/burndown.png)
+
+## Velocity
+
+![Velocity](../../assets/img/sprints/sprint-7/velocity.png)
+
+## Quadro de Conhecimentos
+
+### Antes
+
+![Quadro de conhecimento antes](../../assets/img/sprints/sprint-7/knowledge-board-before.png)
+
+### Depois
+
+![Quadro de conhecimento depois](../../assets/img/sprints/sprint-7/knowledge-board-after.png)
+
+### Antes e depois por assunto
+
+![Quadro de conhecimentos - antes e depois por assunto](../../assets/img/sprints/sprint-7/knowledge-board-topics-compare.png)
+
+## Tempo gasto na sprint
+
+### MDS e EPS
+
+![MDS e EPS - Tempo gasto na sprint](../../assets/img/sprints/sprint-7/time-eps-mds.png)
+
+### Geral
+
+![Geral - Tempo gasto na sprint](../../assets/img/sprints/sprint-7/time-team.png)
+
+## Presença em daily
+
+| Integrante / Dia |      Segunda       |       Terça        |       Quarta       |       Quinta       |       Sexta        |       Sábado       |
+| :--------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
+|       Ana        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|      André       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|     Fernando     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|    Lieverton     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|       Lais       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|     Leonardo     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|      Lucas       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|       Luís       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|       Luiz       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|     Welison      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
