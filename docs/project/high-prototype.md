@@ -24,7 +24,7 @@ Autores:
 
 - [Fernando Vargas](https://github.com/SFernandoS)
 
-Data: 03/06/2021
+Data: 03/02/2021
 
 O protótipo interativo pode ser acessado no [link](https://www.figma.com/proto/DigQ30njp1qckw7LLtgAAL/Projeto-Kokama---Prototipo-de-alta-fidelidade).
 
@@ -38,20 +38,19 @@ Os principais pontos observados pelo cliente foi:
 
 - As histórias são interessantes para guardar informações sobre a cultura do povo kokama.
 
-![prototype_1_1](../assets/img/prototype/high/prototype_1_1.png)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FDigQ30njp1qckw7LLtgAAL%2FProjeto-Kokama-Prototipo-de-alta-fidelidade%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
-![prototype_1_2](../assets/img/prototype/high/prototype_1_2.png)
+### Protótipo V2.0
 
-![prototype_1_3](../assets/img/prototype/high/prototype_1_3.png)
+Autores:
 
-![prototype_1_4](../assets/img/prototype/high/prototype_1_4.png)
+- [André Pinto](https://github.com/andrelucax)
 
-![prototype_1_5](../assets/img/prototype/high/prototype_1_5.png)
+Data: 20/04/2021
 
-![prototype_1_6](../assets/img/prototype/high/prototype_1_6.png)
+O protótipo interativo pode ser acessado no [link](https://www.figma.com/proto/RBZK4AxbqB6s1LFpTHkvx0/Alta-Fidelidade-V2.0-Projeto-Kokama).
 
-![prototype_1_7](../assets/img/prototype/high/prototype_1_7.png)
+O novo protótipo ainda não foi validado com o cliente.
 
-![prototype_1_8](../assets/img/prototype/high/prototype_1_8.png)
-
-![prototype_1_9](../assets/img/prototype/high/prototype_1_9.png)
+As telas do protótipo podem ser acessadas no [link](https://www.figma.com/file/RBZK4AxbqB6s1LFpTHkvx0/Alta-Fidelidade-V2.0---Projeto-Kokama)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FRBZK4AxbqB6s1LFpTHkvx0%2FAlta-Fidelidade-V2.0-Projeto-Kokama%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
