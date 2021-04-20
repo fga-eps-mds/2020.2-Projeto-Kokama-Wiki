@@ -9,6 +9,7 @@
 | 23/02/2021 | [Welison Regis](https://github.com/WelisonR)                                                        | Revisa e melhora documento do protótipo de alta fidelidade         | 0.3    |
 | 23/02/2021 | [André Pinto](https://github.com/andrelucax)                                                        | Adição do Protótipo V2    | 0.4    |
 | 23/02/2021 | [André Pinto](https://github.com/andrelucax)                                                        | Adição do Protótipo Admin    | 0.5    |
+| 23/02/2021 | [André Pinto](https://github.com/andrelucax)                                                        | Adição do Iframe nos protótipos    | 0.6    |
 
 ## Introdução
 
@@ -40,7 +41,13 @@ Os principais pontos observados pelo cliente foi:
 
 - As histórias são interessantes para guardar informações sobre a cultura do povo kokama.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FDigQ30njp1qckw7LLtgAAL%2FProjeto-Kokama-Prototipo-de-alta-fidelidade%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+#### Telas do Protótipo
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FDigQ30njp1qckw7LLtgAAL%2FAlta-Fidelidade-V1.0-Projeto-Kokama%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+#### Protótipo Interativo
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDigQ30njp1qckw7LLtgAAL%2FAlta-Fidelidade-V1.0-Projeto-Kokama%3Fnode-id%3D117%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
 
 ### Protótipo V2.0
 
@@ -50,11 +57,15 @@ Autores:
 
 Data: 20/04/2021
 
-O protótipo interativo pode ser acessado no [link](https://www.figma.com/proto/RBZK4AxbqB6s1LFpTHkvx0/Alta-Fidelidade-V2.0-Projeto-Kokama).
-
 O novo protótipo ainda não foi validado com o cliente.
 
+#### Telas do Protótipo
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FRBZK4AxbqB6s1LFpTHkvx0%2FAlta-Fidelidade-V2.0-Projeto-Kokama%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+#### Protótipo Interativo
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FRBZK4AxbqB6s1LFpTHkvx0%2FAlta-Fidelidade-V2.0-Projeto-Kokama%3Fnode-id%3D303%253A2%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
 
 ### Protótipo Admin V1.0
 
