@@ -66,8 +66,12 @@ Data: 20/04/2021
 
 Devido a dificuldade vista no teste de usabilidade com o usuário de manejar a aplicação em conjunto com a administração foi decidido separar em uma aplicação para o usuário que almeja traduzir e uma aplicação para o administrador.
 
-O protótipo interativo pode ser acessado no [link](https://www.figma.com/proto/XmT8I89t7jE5oHowPv5W5O/Alta-Fidelidade-V1.0-Admin-Projeto-Kokama).
-
 O novo protótipo ainda não foi validado com o cliente.
+
+#### Telas do Protótipo
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FXmT8I89t7jE5oHowPv5W5O%2FAlta-Fidelidade-V1.0-Admin-Projeto-Kokama%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+#### Protótipo Interativo
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXmT8I89t7jE5oHowPv5W5O%2FAlta-Fidelidade-V1.0-Admin-Projeto-Kokama%3Fnode-id%3D1%253A8%26scaling%3Dscale-down%26page-id%3D0%253A1" allowfullscreen></iframe>
