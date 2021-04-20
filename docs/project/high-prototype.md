@@ -52,5 +52,4 @@ O protótipo interativo pode ser acessado no [link](https://www.figma.com/proto/
 
 O novo protótipo ainda não foi validado com o cliente.
 
-As telas do protótipo podem ser acessadas no [link](https://www.figma.com/file/RBZK4AxbqB6s1LFpTHkvx0/Alta-Fidelidade-V2.0---Projeto-Kokama)
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FRBZK4AxbqB6s1LFpTHkvx0%2FAlta-Fidelidade-V2.0-Projeto-Kokama%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
