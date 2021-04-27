@@ -1,26 +1,18 @@
-# Planejamento da sprint 8
+# Review da sprint 8
 
 ## Histórico de revisão
 
-|    Data    | Autor                                           | Modificações                      | Versão |
-| :--------: | ----------------------------------------------- | --------------------------------- | :----: |
-| 14/04/2021 | [Welison Regis](http://www.github.com/WelisonR) | Adiciona planejamento da sprint 8 |  1.0   |
+| Data       | Autor                                        | Modificações                                 | Versão |
+| ---------- | -------------------------------------------- | -------------------------------------------- | ------ |
+| 14/04/2021 | [Welison Regis](https://github.com/WelisonR) | Adiciona revisão e retrospectiva da sprint 8 | 1.0    |
 
-## Tamanho da sprint
+## Visão Geral
 
-| Início da sprint | Término da Sprint | Duração |
-| :--------------: | :---------------: | :-----: |
-|    04/04/2021    |    10/04/2021     | 7 dias  |
+|        Duração da sprint        | Planejado | Entregue  | Divida técnica | Membros ausentes |
+| :-----------------------------: | :-------: | :-------: | :------------: | :--------------: |
+| **04/04/2021** a **10/04/2021** | 61 pontos | 56 pontos |    5 pontos    |      Nenhum      |
 
-## Pareamentos
-
-| Paramento | Integrantes                                                                                             |
-| :-------: | ------------------------------------------------------------------------------------------------------- |
-|     1     | [Ana Júlia](http://www.github.com/aluzianobriceno) e [Lais Portela](http://www.github.com/laispa)       |
-|     2     | [Fernando Vargas](http://www.github.com/SFernandoS) e [Luiz Gustavo](http://www.github.com/LightZX)     |
-|     3     | [Lucas Rodrigues](http://www.github.com/nickby2) e [Luís Guilherme](http://www.github.com/luisgaboardi) |
-
-## Sprint Backlog
+## Tarefas finalizadas
 
 | Issue                                                                                                                                                      | Pontos | Responsáveis                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -31,16 +23,12 @@
 | [Melhorar mapeamento de riscos do projeto](https://github.com//fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/144)                                          |   3    | [Welison Regis](https://github.com/WelisonR)                                                                                                                                                     |
 | [Configurar integração contínua e deploy contínuo do novo microsserviço de usuário](https://github.com//fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/142) |   5    | [André Lucas](https://github.com/andrelucax) e [Leonardo Medeiros](https://github.com/leomedeiros1)                                                                                              |
 | [Criar novo microsserviço de usuário](https://github.com//fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/140)                                               |   5    | [André Lucas](https://github.com/andrelucax) e [Leonardo Medeiros](https://github.com/leomedeiros1)                                                                                              |
-| [[US19] Tela com informações sobre o projeto](https://github.com//fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/141)                                       |   5    | [Lais Portela](https://github.com/laispa) e [Ana Júlia](https://github.com/aluzianobriceno)                                                                                                      |
 | [[US16] Geração Automática de Exercícios](https://github.com//fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/143)                                           |   13   | [Lucas Rodrigues](https://github.com/nickby2), [Luís Guilherme](https://github.com/luisgaboardi), [Lieverton Silva](https://github.com/lievertom) e [Welison Regis](https://github.com/WelisonR) |
 | [[TS04] Melhorar usabilidade das paginas de edição de tradução](https://github.com//fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/145)                     |   5    | [Luiz Gustavo](https://github.com/LightZX) e [Fernando Vargas](https://github.com/SFernandoS)                                                                                                    |
 | [[TS05] Refatorações e melhorias de código no front-end](https://github.com//fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/146)                            |   8    | [Ana Júlia](https://github.com/aluzianobriceno), [Lais Portela](https://github.com/laispa) e [Welison Regis](https://github.com/WelisonR)                                                        |
 
-## Papéis
+## Dívidas técnicas
 
-|         Papel         | Integrante        |
-| :-------------------: | ----------------- |
-|   **Scrum Master**    | Welison Regis     |
-|      **DevOps**       | Leonardo Medeiros |
-|     **Arquiteto**     | Lieverton Santos  |
-| **Analista de dados** | André Pinto       |
+| Tarefa                                                                                                               | Pontos | Responsáveis                                                                                | Justificativa                                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------- | :----: | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[US19] Tela com informações sobre o projeto](https://github.com//fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/141) |   5    | [Lais Portela](https://github.com/laispa) e [Ana Júlia](https://github.com/aluzianobriceno) | A dupla teve dificuldades para desenvolver as atividades propostas, pois uma das integrantes fraturou a perna e precisou manter repouso durante alguns dias da *sprint* |
