@@ -30,3 +30,54 @@
 | Tarefa                                                                                                                                  | Pontos | Responsáveis                                                                                        | Justificativa                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------- | :----: | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | [US - História do povo Kokama disponíveis em português e Kokama](https://github.com//fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/151) |   13   | [Lais Portela](https://www.github.com/laispa) e [Ana Júlia](https://www.github.com/aluzianobriceno) | Dupla não conseguiu completar todos os detalhes da issue no período da sprint, front-end ficou pendente e o back-end pela incompleto |
+
+## Cumulative Flow
+
+![Cumulative flow](../../assets/img/sprints/sprint-9/cumulative-flow.png)
+
+## Burndown
+
+![Burndown](../../assets/img/sprints/sprint-9/burndown.png)
+
+## Velocity
+
+![Velocity](../../assets/img/sprints/sprint-9/velocity.png)
+
+## Quadro de Conhecimentos
+
+### Antes
+
+![Quadro de conhecimento antes](../../assets/img/sprints/sprint-9/knowledge-board-before.png)
+
+### Depois
+
+![Quadro de conhecimento depois](../../assets/img/sprints/sprint-9/knowledge-board-after.png)
+
+### Antes e depois por assunto
+
+![Quadro de conhecimentos - antes e depois por assunto](../../assets/img/sprints/sprint-9/knowledge-board-topics-compare.png)
+
+## Tempo gasto na sprint
+
+### MDS e EPS
+
+![MDS e EPS - Tempo gasto na sprint](../../assets/img/sprints/sprint-9/time-eps-mds.png)
+
+### Geral
+
+![Geral - Tempo gasto na sprint](../../assets/img/sprints/sprint-9/time-team.png)
+
+## Presença em daily
+
+| Integrante / Dia |      Segunda       |       Terça        |       Quarta       |       Quinta       |       Sexta        |       Sábado       |
+| :--------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
+|       Ana        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|      André       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|     Fernando     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: |
+|    Lieverton     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|       Lais       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|     Leonardo     | :heavy_check_mark: | :heavy_check_mark: |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|      Lucas       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|       Luís       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|       Luiz       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|     Welison      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
