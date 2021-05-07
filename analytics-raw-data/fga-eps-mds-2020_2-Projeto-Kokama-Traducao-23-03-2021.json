@@ -1,0 +1,1696 @@
+{
+    "paging": {
+        "pageIndex": 1,
+        "pageSize": 500,
+        "total": 34
+    },
+    "baseComponent": {
+        "id": "AXlIw6tXJIlxfsW8m0CR",
+        "key": "lievertom_2020.2-Projeto-Kokama-Traducao",
+        "name": "2020.2-Projeto-Kokama-Traducao",
+        "qualifier": "TRK",
+        "measures": [
+            {
+                "metric": "complexity",
+                "value": "30"
+            },
+            {
+                "metric": "duplicated_lines_density",
+                "value": "0.0",
+                "bestValue": true
+            },
+            {
+                "metric": "functions",
+                "value": "11"
+            },
+            {
+                "metric": "ncloc",
+                "value": "564"
+            },
+            {
+                "metric": "reliability_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "security_rating",
+                "value": "1.0",
+                "bestValue": true
+            },
+            {
+                "metric": "comment_lines_density",
+                "value": "9.6",
+                "bestValue": false
+            },
+            {
+                "metric": "files",
+                "value": "28"
+            }
+        ]
+    },
+    "components": [
+        {
+            "id": "AXlIxFPEnVEt8FeVfWZA",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:translate/__init__.py",
+            "name": "__init__.py",
+            "qualifier": "FIL",
+            "path": "translate/__init__.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "0"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZR",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:dictionary/__init__.py",
+            "name": "__init__.py",
+            "qualifier": "FIL",
+            "path": "dictionary/__init__.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "0"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZb",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:administration/__init__.py",
+            "name": "__init__.py",
+            "qualifier": "FIL",
+            "path": "administration/__init__.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "0"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZI",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:dictionary/templates/add_translation.html",
+            "name": "add_translation.html",
+            "qualifier": "FIL",
+            "path": "dictionary/templates/add_translation.html",
+            "language": "web",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "1"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "48"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZQ",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:dictionary/admin.py",
+            "name": "admin.py",
+            "qualifier": "FIL",
+            "path": "dictionary/admin.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "9"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZZ",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:administration/admin.py",
+            "name": "admin.py",
+            "qualifier": "FIL",
+            "path": "administration/admin.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "1"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZV",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:administration/templates/admin_register.html",
+            "name": "admin_register.html",
+            "qualifier": "FIL",
+            "path": "administration/templates/admin_register.html",
+            "language": "web",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "1"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "39"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZf",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:administration",
+            "name": "administration",
+            "qualifier": "DIR",
+            "path": "administration",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "12"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "2"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "201"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.5",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "10"
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZP",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:dictionary/apps.py",
+            "name": "apps.py",
+            "qualifier": "FIL",
+            "path": "dictionary/apps.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "3"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZY",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:administration/apps.py",
+            "name": "apps.py",
+            "qualifier": "FIL",
+            "path": "administration/apps.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "3"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPEnVEt8FeVfWZD",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:translate/asgi.py",
+            "name": "asgi.py",
+            "qualifier": "FIL",
+            "path": "translate/asgi.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "66.7",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "4"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZS",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:dictionary",
+            "name": "dictionary",
+            "qualifier": "DIR",
+            "path": "dictionary",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "14"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "8"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "233"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "11"
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZJ",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:dictionary/templates/list_translation.html",
+            "name": "list_translation.html",
+            "qualifier": "FIL",
+            "path": "dictionary/templates/list_translation.html",
+            "language": "web",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "1"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "38"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZh",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:load-seed.py",
+            "name": "load-seed.py",
+            "qualifier": "FIL",
+            "path": "load-seed.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "1"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "10"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZW",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:administration/templates/login.html",
+            "name": "login.html",
+            "qualifier": "FIL",
+            "path": "administration/templates/login.html",
+            "language": "web",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "1"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "32"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZg",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:manage.py",
+            "name": "manage.py",
+            "qualifier": "FIL",
+            "path": "manage.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "2"
+                },
+                {
+                    "metric": "functions",
+                    "value": "1"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "16.7",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "15"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZM",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:dictionary/models.py",
+            "name": "models.py",
+            "qualifier": "FIL",
+            "path": "dictionary/models.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "6"
+                },
+                {
+                    "metric": "functions",
+                    "value": "6"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "50"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZe",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:administration/models.py",
+            "name": "models.py",
+            "qualifier": "FIL",
+            "path": "administration/models.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "1"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZO",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:dictionary/serializers.py",
+            "name": "serializers.py",
+            "qualifier": "FIL",
+            "path": "dictionary/serializers.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "27"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPEnVEt8FeVfWZC",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:translate/settings.py",
+            "name": "settings.py",
+            "qualifier": "FIL",
+            "path": "translate/settings.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "1"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "23.6",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "81"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZd",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:administration/static/administration",
+            "name": "static/administration",
+            "qualifier": "DIR",
+            "path": "administration/static/administration",
+            "measures": [
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "71"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "1.4",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZc",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:administration/static/administration/style.css",
+            "name": "style.css",
+            "qualifier": "FIL",
+            "path": "administration/static/administration/style.css",
+            "language": "css",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "1.4",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "71"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZK",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:dictionary/templates",
+            "name": "templates",
+            "qualifier": "DIR",
+            "path": "dictionary/templates",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "2"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "86"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "2"
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZX",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:administration/templates",
+            "name": "templates",
+            "qualifier": "DIR",
+            "path": "administration/templates",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "2"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "71"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "2"
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZH",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:dictionary/tests.py",
+            "name": "tests.py",
+            "qualifier": "FIL",
+            "path": "dictionary/tests.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "1"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZa",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:administration/tests.py",
+            "name": "tests.py",
+            "qualifier": "FIL",
+            "path": "administration/tests.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "1"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZF",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:translate",
+            "name": "translate",
+            "qualifier": "DIR",
+            "path": "translate",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "105"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "34.8",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "5"
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPEnVEt8FeVfWZB",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:translate/urls.py",
+            "name": "urls.py",
+            "qualifier": "FIL",
+            "path": "translate/urls.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "48.4",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "16"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZL",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:dictionary/urls.py",
+            "name": "urls.py",
+            "qualifier": "FIL",
+            "path": "dictionary/urls.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "6"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZU",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:administration/urls.py",
+            "name": "urls.py",
+            "qualifier": "FIL",
+            "path": "administration/urls.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "6"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZG",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:dictionary/views.py",
+            "name": "views.py",
+            "qualifier": "FIL",
+            "path": "dictionary/views.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "6"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZT",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:administration/views.py",
+            "name": "views.py",
+            "qualifier": "FIL",
+            "path": "administration/views.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "10"
+                },
+                {
+                    "metric": "functions",
+                    "value": "2"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "47"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPFnVEt8FeVfWZN",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:dictionary/views_html.py",
+            "name": "views_html.py",
+            "qualifier": "FIL",
+            "path": "dictionary/views_html.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "complexity",
+                    "value": "6"
+                },
+                {
+                    "metric": "functions",
+                    "value": "2"
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "45"
+                },
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "0.0",
+                    "bestValue": false
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        },
+        {
+            "id": "AXlIxFPEnVEt8FeVfWZE",
+            "key": "lievertom_2020.2-Projeto-Kokama-Traducao:translate/wsgi.py",
+            "name": "wsgi.py",
+            "qualifier": "FIL",
+            "path": "translate/wsgi.py",
+            "language": "py",
+            "measures": [
+                {
+                    "metric": "reliability_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "complexity",
+                    "value": "0"
+                },
+                {
+                    "metric": "functions",
+                    "value": "0"
+                },
+                {
+                    "metric": "security_rating",
+                    "value": "1.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "comment_lines_density",
+                    "value": "66.7",
+                    "bestValue": false
+                },
+                {
+                    "metric": "ncloc",
+                    "value": "4"
+                },
+                {
+                    "metric": "files",
+                    "value": "1"
+                },
+                {
+                    "metric": "duplicated_lines_density",
+                    "value": "0.0",
+                    "bestValue": true
+                },
+                {
+                    "metric": "test_success_density",
+                    "value": "100.0",
+                    "bestValue": true
+                }
+            ]
+        }
+    ]
+}
