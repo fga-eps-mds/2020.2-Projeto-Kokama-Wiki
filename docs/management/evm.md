@@ -36,7 +36,7 @@ Para que seja possível acompanhar a saúde de um projeto ágil, o EVM precisa d
 
 ## Planilha
 
-<iframe width="100%" height="550" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTPZv1b31rfClnxoDcwZT4-tvpGfCkyzJKffdtfOEoX4RbV9mW_czZWnKMlBIubuDvw5ZzBc2zLfhMw/pubhtml?gid=22895399&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="100%" height="550" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTPZv1b31rfClnxoDcwZT4-tvpGfCkyzJKffdtfOEoX4RbV9mW_czZWnKMlBIubuDvw5ZzBc2zLfhMw/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ## Referências
 
