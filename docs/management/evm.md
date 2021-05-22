@@ -5,6 +5,7 @@
 | Data       | Autor                                        | Modificações                      | Versão |
 | ---------- | -------------------------------------------- | --------------------------------- | ------ |
 | 28/02/2021 | [André Pinto](https://github.com/andrelucax) | Adiciona template do documento | 0.1 |
+| 28/02/2021 | [André Pinto](https://github.com/andrelucax) | Correção do link do iframe | 0.2 |
 
 ## Introdução
 
