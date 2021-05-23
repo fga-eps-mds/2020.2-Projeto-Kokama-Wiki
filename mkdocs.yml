@@ -1,15 +1,15 @@
 # Project information
-site_name: "Projeto Kokama"
-site_description: "TODO"
+site_name: "Kokama Kinkin"
+site_description: "O povo Kokama, após um passado de profundas desigualdades, redesenha novas fronteiras políticas, que concorrem para a persistência da afirmação de sua identidade étnica, num futuro de autonomia e de coexistência linguística."
 site_author: "Grupo 03"
 site_url: "https://fga-eps-mds.github.io/2020.2-Projeto-Kokama-Wiki/"
 
 # Repository
-repo_name: "Projeto Kokama"
+repo_name: "Kokama Kinkin"
 repo_url: "https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki/"
 
 # Copyright
-copyright: "Copyright &copy; 2021 Projeto Kokama"
+copyright: "Copyright &copy; 2021 Kokama Kinkin"
 
 # Theme settings
 theme:
@@ -22,7 +22,7 @@ theme:
     - navigation.tabs
   language: "pt"
   name: "material"
-  palette: 
+  palette:
     primary: "red"
     accent: "grey"
 
@@ -30,94 +30,94 @@ theme:
 nav:
   - Projeto:
       - Lean Inception:
-        - Introdução: "project/lean-inception/introduction.md"
-        - Visão do produto: "project/lean-inception/product-vision.md"
-        - Produto é/faz: "project/lean-inception/is-is-not-does-does-not.md"
-        - Objetivos do produto: "project/lean-inception/product-goals.md"
-        - Personas: "project/lean-inception/personas.md"
-        - Jornada do usuário: "project/lean-inception/user-journey.md"
-        - Brainstorm: "project/lean-inception/brainstorm.md"
-        - Revisão de funcionalidades: "project/lean-inception/functionalities-review.md"
-        - Sequenciador: "project/lean-inception/sequencer.md"
-        - Canvas MVP: "project/lean-inception/canvas-mvp.md"
+          - Introdução: "project/lean-inception/introduction.md"
+          - Visão do produto: "project/lean-inception/product-vision.md"
+          - Produto é/faz: "project/lean-inception/is-is-not-does-does-not.md"
+          - Objetivos do produto: "project/lean-inception/product-goals.md"
+          - Personas: "project/lean-inception/personas.md"
+          - Jornada do usuário: "project/lean-inception/user-journey.md"
+          - Brainstorm: "project/lean-inception/brainstorm.md"
+          - Revisão de funcionalidades: "project/lean-inception/functionalities-review.md"
+          - Sequenciador: "project/lean-inception/sequencer.md"
+          - Canvas MVP: "project/lean-inception/canvas-mvp.md"
       - Design:
-        - Identidade visual: "project/visual-identity.md"
-        - Protótipo de baixa fidelidade: "project/low-prototype.md"
-        - Protótipo de média fidelidade: "project/mid-prototype.md"
-        - Protótipo de alta fidelidade: "project/high-prototype.md"
-        - Teste de usabilidade: "project/usability-test.md"
+          - Identidade visual: "project/visual-identity.md"
+          - Protótipo de baixa fidelidade: "project/low-prototype.md"
+          - Protótipo de média fidelidade: "project/mid-prototype.md"
+          - Protótipo de alta fidelidade: "project/high-prototype.md"
+          - Teste de usabilidade: "project/usability-test.md"
       - Rich Picture: "project/rich-picture.md"
       - Documento de arquitetura: "project/architecture-document.md"
       - Backlog: "project/product-backlog.md"
       - Comunidade:
-        - Código de conduta: "project/CODE_OF_CONDUCT.md"
-        - Diretrizes de contribuição: "project/CONTRIBUTING.md"
+          - Código de conduta: "project/CODE_OF_CONDUCT.md"
+          - Diretrizes de contribuição: "project/CONTRIBUTING.md"
       - Outros:
-        - Documento de visão: "project/vision-document.md"
+          - Documento de visão: "project/vision-document.md"
   - Gerência:
-    - Plano metodológico:
-      - Plano metodológico: "management/methodology-plan.md"
-      - Plano de comunicação: "management/communication-plan.md"
-      - Quadro de disponibilidade: "management/availability-board.md"
-    - Roadmap:
-      - Roadmap de papeis: "management/role-roadmap.md"
-      - Roadmap do produto: "management/product-roadmap.md"
-    - EVM: "management/evm.md"
-    - Sprints:
-      - Sprint 0:
-        - Revisão e retrospectiva: "management/sprints/sprint-0.md"
-      - Sprint 1:
-        - Planejamento: "management/sprints/sprint-1-planning.md"
-        - Revisão e retrospectiva: "management/sprints/sprint-1-review-retrospective.md"
-      - Sprint 2:
-        - Planejamento: "management/sprints/sprint-2-planning.md"
-        - Revisão e retrospectiva: "management/sprints/sprint-2-review-retrospective.md"
-      - Sprint 3:
-        - Planejamento: "management/sprints/sprint-3-planning.md"
-        - Revisão e retrospectiva: "management/sprints/sprint-3-review-retrospective.md"
-      - Sprint 4:
-        - Planejamento: "management/sprints/sprint-4-planning.md"
-        - Revisão e retrospectiva: "management/sprints/sprint-4-review-retrospective.md"
-      - Sprint 5:
-        - Planejamento: "management/sprints/sprint-5-planning.md"
-        - Revisão e retrospectiva: "management/sprints/sprint-5-review-retrospective.md"
-      - Sprint 6:
-        - Planejamento: "management/sprints/sprint-6-planning.md"
-        - Revisão e retrospectiva: "management/sprints/sprint-6-review-retrospective.md"
-      - Sprint 7:
-        - Planejamento: "management/sprints/sprint-7-planning.md"
-        - Revisão e retrospectiva: "management/sprints/sprint-7-review-retrospective.md"
-      - Sprint 8:
-        - Planejamento: "management/sprints/sprint-8-planning.md"
-        - Revisão e retrospectiva: "management/sprints/sprint-8-review-retrospective.md"
-      - Sprint 9:
-        - Planejamento: "management/sprints/sprint-9-planning.md"
-        - Revisão e retrospectiva: "management/sprints/sprint-9-review-retrospective.md"
-      - Sprint 10:
-        - Planejamento: "management/sprints/sprint-10-planning.md"
-        - Revisão e retrospectiva: "management/sprints/sprint-10-review-retrospective.md"
-      - Sprint 11:
-        - Planejamento: "management/sprints/sprint-11-planning.md"
-        - Revisão e retrospectiva: "management/sprints/sprint-11-review-retrospective.md"
-      - Sprint 12:
-        - Planejamento: "management/sprints/sprint-12-planning.md"
-        - Revisão e retrospectiva: "management/sprints/sprint-12-review-retrospective.md"
-      - Sprint 13:
-        - Planejamento: "management/sprints/sprint-13-planning.md"
-        - Revisão e retrospectiva: "management/sprints/sprint-13-review-retrospective.md"
-      - Sprint 14:
-        - Planejamento: "management/sprints/sprint-14-planning.md"
-        - Revisão e retrospectiva: "management/sprints/sprint-14-review-retrospective.md"
-    - Reuniões com PO:
-      - Reunião 1: "management/po-meetings/meeting-1.md"
-      - Reunião 2: "management/po-meetings/meeting-2.md"
-      - Reunião 3: "management/po-meetings/meeting-3.md"
-      - Reunião 4: "management/po-meetings/meeting-4.md"
-      - Reunião 5: "management/po-meetings/meeting-5.md"
-      - Reunião 6: "management/po-meetings/meeting-6.md"
-      - Reunião 7: "management/po-meetings/meeting-7.md"
+      - Plano metodológico:
+          - Plano metodológico: "management/methodology-plan.md"
+          - Plano de comunicação: "management/communication-plan.md"
+          - Quadro de disponibilidade: "management/availability-board.md"
+      - Roadmap:
+          - Roadmap de papeis: "management/role-roadmap.md"
+          - Roadmap do produto: "management/product-roadmap.md"
+      - EVM: "management/evm.md"
+      - Sprints:
+          - Sprint 0:
+              - Revisão e retrospectiva: "management/sprints/sprint-0.md"
+          - Sprint 1:
+              - Planejamento: "management/sprints/sprint-1-planning.md"
+              - Revisão e retrospectiva: "management/sprints/sprint-1-review-retrospective.md"
+          - Sprint 2:
+              - Planejamento: "management/sprints/sprint-2-planning.md"
+              - Revisão e retrospectiva: "management/sprints/sprint-2-review-retrospective.md"
+          - Sprint 3:
+              - Planejamento: "management/sprints/sprint-3-planning.md"
+              - Revisão e retrospectiva: "management/sprints/sprint-3-review-retrospective.md"
+          - Sprint 4:
+              - Planejamento: "management/sprints/sprint-4-planning.md"
+              - Revisão e retrospectiva: "management/sprints/sprint-4-review-retrospective.md"
+          - Sprint 5:
+              - Planejamento: "management/sprints/sprint-5-planning.md"
+              - Revisão e retrospectiva: "management/sprints/sprint-5-review-retrospective.md"
+          - Sprint 6:
+              - Planejamento: "management/sprints/sprint-6-planning.md"
+              - Revisão e retrospectiva: "management/sprints/sprint-6-review-retrospective.md"
+          - Sprint 7:
+              - Planejamento: "management/sprints/sprint-7-planning.md"
+              - Revisão e retrospectiva: "management/sprints/sprint-7-review-retrospective.md"
+          - Sprint 8:
+              - Planejamento: "management/sprints/sprint-8-planning.md"
+              - Revisão e retrospectiva: "management/sprints/sprint-8-review-retrospective.md"
+          - Sprint 9:
+              - Planejamento: "management/sprints/sprint-9-planning.md"
+              - Revisão e retrospectiva: "management/sprints/sprint-9-review-retrospective.md"
+          - Sprint 10:
+              - Planejamento: "management/sprints/sprint-10-planning.md"
+              - Revisão e retrospectiva: "management/sprints/sprint-10-review-retrospective.md"
+          - Sprint 11:
+              - Planejamento: "management/sprints/sprint-11-planning.md"
+              - Revisão e retrospectiva: "management/sprints/sprint-11-review-retrospective.md"
+          - Sprint 12:
+              - Planejamento: "management/sprints/sprint-12-planning.md"
+              - Revisão e retrospectiva: "management/sprints/sprint-12-review-retrospective.md"
+          - Sprint 13:
+              - Planejamento: "management/sprints/sprint-13-planning.md"
+              - Revisão e retrospectiva: "management/sprints/sprint-13-review-retrospective.md"
+          - Sprint 14:
+              - Planejamento: "management/sprints/sprint-14-planning.md"
+              - Revisão e retrospectiva: "management/sprints/sprint-14-review-retrospective.md"
+      - Reuniões com PO:
+          - Reunião 1: "management/po-meetings/meeting-1.md"
+          - Reunião 2: "management/po-meetings/meeting-2.md"
+          - Reunião 3: "management/po-meetings/meeting-3.md"
+          - Reunião 4: "management/po-meetings/meeting-4.md"
+          - Reunião 5: "management/po-meetings/meeting-5.md"
+          - Reunião 6: "management/po-meetings/meeting-6.md"
+          - Reunião 7: "management/po-meetings/meeting-7.md"
   - Releases:
-    - Release 1: "releases/release-1.md"
+      - Release 1: "releases/release-1.md"
 # Style
 extra_css:
   - assets/css/extra.css

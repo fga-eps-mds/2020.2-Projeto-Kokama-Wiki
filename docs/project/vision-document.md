@@ -83,7 +83,7 @@ Dispositivo Smartphone com capacidade de rodar aplicativos desenvolvidos tanto p
 
 ### **Perspectiva do Produto**
 
-O Projeto Kokama é um aplicativo mobile multiplataforma, com o intuito de ajudar os Kokamas, alunos, professores e entusiastas dessa cultura a traduzir palavras, facilitar o ensinamento desse idioma e ensinar um pouco sobre o povo Kokama àqueles que não os conhecem. Esse aplicativo conta com funções de tradução, cadastramento de palavras e atividades,além de mostrar a história e cultura do povo Kokama.
+O Projeto Kokama é um aplicativo mobile multiplataforma, com o intuito de ajudar os Kokamas, alunos, professores e entusiastas dessa cultura a traduzir palavras, facilitar o ensinamento desse idioma e ensinar um pouco sobre o povo Kokama àqueles que não os conhecem. Esse aplicativo conta com funções de tradução, cadastramento de palavras e atividades, além de mostrar a história e cultura do povo Kokama.
 
 ### **Resumo das Capacidades**
 

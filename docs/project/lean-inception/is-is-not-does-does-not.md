@@ -8,7 +8,7 @@
 
 ## Introdução
 
-Com objetivo de esclarecer melhor o produto e começar a delinear e afunilar as funcionalidades da aplicação Projeto Kokama, realizou-se a etapa de identificação do que o produto faz, não faz, é e não é.
+Com objetivo de esclarecer melhor o produto e começar a delinear e afunilar as funcionalidades da aplicação Kokama Kinkin, realizou-se a etapa de identificação do que o produto faz, não faz, é e não é.
 
 Na dinâmica do time, separou-se os integrantes em dois grupos, sendo que o primeiro grupo ficou responsável por preencher os tópicos "produto é" e "produto faz" e o segundo grupo preencheu os demais tópicos — "produto não é" e "produto não faz".
 
