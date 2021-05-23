@@ -25,9 +25,9 @@
 
 ## Dívidas técnicas
 
-| Tarefa                                                                                                                      | Pontos | Responsáveis                                                                                    | Justificativa |
-| --------------------------------------------------------------------------------------------------------------------------- | :----: | ----------------------------------------------------------------------------------------------- | ------------- |
-| [[TS08] Testes unitários no microsserviço de ensino](https://github.com//fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/164) |   8    | [Ana Júlia](https://github.com/aluzianobriceno) e [Lucas Rodrigues](https://github.com/nickby2) |
+| Tarefa                                                                                                                      | Pontos | Responsáveis                                                                                    | Justificativa                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------- | :----: | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [[TS08] Testes unitários no microsserviço de ensino](https://github.com//fga-eps-mds/2020.2-Projeto-Kokama-Wiki/issues/164) |   8    | [Ana Júlia](https://github.com/aluzianobriceno) e [Lucas Rodrigues](https://github.com/nickby2) | Dupla teve dificuldades em desenvolver testes unitários em python com o framework DRF |
 
 ## Burndown
 
@@ -105,6 +105,6 @@ Os textos abaixo são opiniões e visões relatadas anonimamente por parte da eq
 
 Considerações sobre a _sprint 11_:
 
-Comparado a _sprint 10_, a equipe tem conseguido se reestruturar para atender as demandas que ficaram pendentes, entretanto, nessa sprint pode-se perceber que há muito a melhorar no quesito testes de software. Conforme o **burnwdown e o velocity**, pode-se perceber avanços em relação a sprint passada de modo que ficou apenas uma dívida para a próxima sprint. Já o **quadro de conhecimentos**, revela um avanço tímido na área de testes de software, situação que deve ser melhor ajustada para que as próximas entregas das sprints sejam mais bem sucedidas. 
+Comparado a _sprint 10_, a equipe tem conseguido se reestruturar para atender as demandas que ficaram pendentes, entretanto, nessa sprint pode-se perceber que há muito a melhorar no quesito testes de software. Conforme o **burnwdown e o velocity**, pode-se perceber avanços em relação a sprint passada de modo que ficou apenas uma dívida para a próxima sprint. Já o **quadro de conhecimentos**, revela um avanço tímido na área de testes de software, situação que deve ser melhor ajustada para que as próximas entregas das sprints sejam mais bem sucedidas.
 
 Portanto, deve-se observar os fatos elencados nessa avaliação e também no tópico "medidas a serem tomadas".
