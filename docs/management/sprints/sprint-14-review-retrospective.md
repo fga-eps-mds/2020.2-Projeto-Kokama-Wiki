@@ -10,7 +10,7 @@
 
 |        Duração da sprint        | Planejado | Entregue  | Divida técnica | Membros ausentes |
 | :-----------------------------: | :-------: | :-------: | :------------: | :--------------: |
-| **16/05/2021** a **22/05/2021** | 42 pontos | 42 pontos |    0 pontos    |        -         |
+| **16/05/2021** a **22/05/2021** | 77 pontos | 77 pontos |    0 pontos    |        -         |
 
 ## Tarefas finalizadas
 
