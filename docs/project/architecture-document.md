@@ -12,16 +12,19 @@
 | 08/03/2021 | [Lieverton Silva](https://github.com/lievertom) | adiciona informações sobre os módulos | 0.6 |
 | 08/03/2021 | [Lieverton Silva](https://github.com/lievertom) | adiciona tabela de metas e restrições de arquitetura | 0.7 |
 | 23/03/2021 | [Lieverton Silva](https://github.com/lievertom) | adiciona diagramas de pacote | 1.0 |
+| 23/05/2021 | [Lieverton Silva](https://github.com/lievertom) | atualiza nome da aplicação | 1.1 |
+| 23/05/2021 | [Lieverton Silva](https://github.com/lievertom) | atualiza representação arquitetural | 1.2 |
+
 
 ## 1. Introdução
 
 ### 1.1 Finalidade
 
-Este documento tem como objetivo apresentar uma visão geral e abrangente da arquitetura de *software*, especificando decisões arquiteturais pertinentes para o desenvolvimento do aplicativo Projeto Kokama. Além disso, descrever aspectos e funcionalidades do sistema de forma clara e objetiva.
+Este documento tem como objetivo apresentar uma visão geral e abrangente da arquitetura de *software*, especificando decisões arquiteturais pertinentes para o desenvolvimento do aplicativo Kokama Kinkin. Além disso, descrever aspectos e funcionalidades do sistema de forma clara e objetiva.
 
 ### 1.2 Escopo
 
-O Projeto Kokama é um aplicativo para as plataformas Android e iOS projetado para ser um tradutor e auxiliador no ensino da língua e cultura Kokama. Os desenvolvedores são responsáveis em seguir este documento visando garantir o padrão proposto para a arquitetura.
+O Kokama Kinkin é um aplicativo para as plataformas Android e iOS projetado para ser um tradutor e auxiliador no ensino da língua e cultura Kokama. Os desenvolvedores são responsáveis em seguir este documento visando garantir o padrão proposto para a arquitetura.
 
 ### 1.3 Definições, acrônimos e abreviações
 
@@ -35,22 +38,26 @@ O Projeto Kokama é um aplicativo para as plataformas Android e iOS projetado pa
 
 As referências aplicáveis são:
 
-- [Projeto Kokama](https://fga-eps-mds.github.io/2020.2-Projeto-Kokama-Wiki/)
+- [Kokama Kinkin](https://fga-eps-mds.github.io/2020.2-Projeto-Kokama-Wiki/)
 - [Software Architecture Document](https://sce.uhcl.edu/helm/RationalUnifiedProcess/webtmpl/templates/a_and_d/rup_sad.htm#1.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Introduction)
 
 ## 2. Representação Arquitetural
 
-A solução arquitetural implementada para aplicação "Projeto Kokama" pode ser visualizada de forma macro no diagrama abaixo, composto por quatro módulos internos à aplicação e dois módulos externos.
+A solução arquitetural implementada para aplicação "Kokama Kinkin" pode ser visualizada de forma macro no diagrama abaixo, composto por quatro módulos internos à aplicação e dois módulos externos.
 
 ![Diagrama Macro de Arquitetura](../assets/img/architecture/architecture_diagram.png)
 
-### 2.1 APIs
+### 2.1 Tradução
 
-**Módulo de tradução:** módulo da aplicação responsável por prover os recursos necessários para guardar e disponibilizar as informações que possibilitam a tradução da língua Kokama.
+Módulo da aplicação responsável por prover os recursos necessários para guardar e disponibilizar as informações que possibilitam a tradução da língua Kokama.
 
-**Módulo de ensino:** módulo da aplicação responsável por prover os recursos necessários para guardar e disponibilizar as informações sobre os exercícios e a cultura kokama.
+### 2.2 Ensino
 
-**Módulo de perfil:** módulo responsável por prover os recursos necessários para guardar e sincronizar as informações do usuário e do seu histórico de uso da aplicação.
+Módulo da aplicação responsável por prover os recursos necessários para guardar e disponibilizar as informações sobre os exercícios e a cultura Kokama.
+
+### 2.3 Usuário
+
+Módulo responsável por prover os recursos necessários para guardar e sincronizar as informações do usuário e do seu histórico de uso da aplicação. Também contém uma interface de acesso exclusivo aos administradores do sistema para gerenciar os dados disponíveis nos módulos de Tradução e de Ensino.
 
 ### 2.2 Front-end
 
