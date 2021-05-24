@@ -118,6 +118,7 @@ nav:
           - Reunião 7: "management/po-meetings/meeting-7.md"
   - Releases:
       - Release 1: "releases/release-1.md"
+      - Release 2: "releases/release-2.md"
 # Style
 extra_css:
   - assets/css/extra.css
